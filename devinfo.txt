@@ -1,0 +1,1 @@
+-  All warnings associated with @NotNull should be ignored

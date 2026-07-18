@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "veridia:stone_copper_ore_placed",
+    "veridia:deepslate_copper_ore_placed",
+    "veridia:granite_copper_ore_placed",
+    "veridia:andesite_copper_ore_placed",
+    "veridia:diorite_copper_ore_placed",
+    "veridia:tuff_copper_ore_placed"
+  ],
+  "step": "underground_ores"
+}
