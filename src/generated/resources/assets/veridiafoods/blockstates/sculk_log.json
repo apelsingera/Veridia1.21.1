@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "veridiafoods:block/sculk_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "veridiafoods:block/sculk_log"
+    },
+    "axis=z": {
+      "model": "veridiafoods:block/sculk_log_horizontal",
+      "x": 90
+    }
+  }
+}

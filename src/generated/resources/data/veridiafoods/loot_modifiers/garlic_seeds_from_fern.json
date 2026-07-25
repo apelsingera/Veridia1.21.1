@@ -1,0 +1,14 @@
+{
+  "type": "veridiafoods:add_item",
+  "conditions": [
+    {
+      "block": "minecraft:fern",
+      "condition": "minecraft:block_state_property"
+    },
+    {
+      "chance": 0.2,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "veridiafoods:garlic_seeds"
+}

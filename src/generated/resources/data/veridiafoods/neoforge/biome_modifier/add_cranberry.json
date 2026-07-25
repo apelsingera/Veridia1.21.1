@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:plains",
+  "features": "veridiafoods:cranberry_placed_key",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "veridiafoods:plant_string"
+    },
+    "B": {
+      "item": "minecraft:cobblestone"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " BB",
+    "ACB",
+    "CA "
+  ],
+  "result": {
+    "count": 1,
+    "id": "veridiafoods:crude_hammer"
+  }
+}

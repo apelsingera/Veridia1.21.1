@@ -1,0 +1,10 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "minecraft:baked_potato" },
+    { "item": "veridia:bottle_of_milk" },
+    { "item": "minecraft:bowl" }
+  ],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridiafoods:potato_puree", "count": 1 }
+}

@@ -1,0 +1,93 @@
+{
+  "item.veridiafoods.plant_string": "Травяная нитка",
+  "item.veridiafoods.plant_clump": "Пучок Травы",
+  "item.veridiafoods.dandelion_root": "Корешок Одуванчика",
+  "item.veridiafoods.crude_knife": "Тупой нож",
+  "item.veridiafoods.crude_hammer": "Простой молот",
+  "item.veridiafoods.tomato": "Помидор",
+  "item.veridiafoods.red_onion": "Красный лук",
+  "item.veridiafoods.garlic": "Чеснок",
+  "item.veridiafoods.garlic_seeds": "Семена чеснока",
+  "item.veridiafoods.red_bell_pepper": "Болгарский перец",
+  "item.veridiafoods.red_bell_pepper_slice": "Кусочек болгарского перца",
+  "item.veridiafoods.bell_pepper_seeds": "Семена болгарского перца",
+  "item.veridiafoods.blue_berry": "Черника",
+  "item.veridiafoods.goose_berry": "Крыжовник",
+  "item.veridiafoods.cranberries": "Клюква",
+
+  "item.veridiafoods.wheat_flour": "Пшеничная мука",
+  "item.veridiafoods.dough": "Тесто",
+  "item.veridiafoods.pasta": "Паста",
+  "item.veridiafoods.tasty_pasta": "Вкусные макароны",
+  "item.veridiafoods.pasta_bucket": "Ведро пасты",
+  "item.veridiafoods.cooked_pasta_bucket": "Ведро готовой пасты",
+  "item.veridiafoods.carrot_pasta": "Макароны с морковкой",
+  "item.veridiafoods.ronaldo_pasta": "РОНАЛЬДО ПАСТА",
+
+  "item.veridiafoods.potato_puree": "Картофельное пюре",
+
+  "item.veridiafoods.ground_pork": "Свиной фарш",
+  "item.veridiafoods.pork_patty": "Свиная котлета",
+  "item.veridiafoods.cooked_pork_patty": "Обжаренная свиная котлета",
+  "item.veridiafoods.porkchop_slice": "Кусочек свинины",
+  "item.veridiafoods.ground_beef": "Говяжий фарш",
+  "item.veridiafoods.beef_patty": "Говяжья котлета",
+  "item.veridiafoods.cooked_beef_patty": "Обжаренная говяжья котлета",
+
+  "item.veridiafoods.unfinished_stuffed_pepper": "Сырой фаршированный перец",
+  "item.veridiafoods.stuffed_pepper": "Фаршированный перец",
+
+  "item.veridiafoods.nice_breakfast": "Хороший завтрак",
+  "item.veridiafoods.beef_burger": "Говяжий бургер",
+  "item.veridiafoods.chicken_legs": "Куринные ножки",
+  "item.veridiafoods.beef_with_mashed_potatoes": "Говядина с картофельным пюре",
+  "item.veridiafoods.piquant_elite_fish_dish": "Элитная пряная рыба",
+
+  "item.veridiafoods.cheese": "Сыр",
+  "item.veridiafoods.boiled_egg": "Варённое яйцо",
+  "item.veridiafoods.bucket_with_egg": "Ведро с яйцом",
+  "item.veridiafoods.boiled_egg_bucket": "Ведро с варённым яйцом",
+
+  "item.veridiafoods.exotic_seasoning1": "Необычная приправа",
+  "item.veridiafoods.exotic_seasoning2": "Необычная приправа",
+  "item.veridiafoods.exotic_seasoning3": "Необычная приправа",
+
+  "block.veridiafoods.sculk_log": "Скалковое бревно",
+  "block.veridiafoods.stripped_sculk_log": "Обтёсанное скалковое бревно",
+  "block.veridiafoods.sculk_wood": "Скалковая древесина",
+  "block.veridiafoods.stripped_sculk_wood": "Обтёсанная скалковая древесина",
+  "block.veridiafoods.sculk_planks": "Скалковые доски",
+  "block.veridiafoods.sculk_leaves": "Скалковые листья",
+  "block.veridiafoods.sculk_sprout": "Скалковый отросток",
+  "block.veridiafoods.cooking_table": "Разделочный стол",
+
+  "block.veridiafoods.garlic_crop": "Чеснок",
+  "block.veridiafoods.bell_pepper_crop": "Перец",
+  "block.veridiafoods.blue_berry_bush": "Куст голубики",
+  "block.veridiafoods.goose_berry_bush": "Куст крыжовника",
+  "block.veridiafoods.cranberry_bush": "Куст клюквы",
+
+  "item.veridiafoods.blueberry_pie_slice": "Кусочек черничного пирога",
+  "item.veridiafoods.blueberry_pie": "Черничный пирог",
+  "item.veridiafoods.gooseberry_pie_slice": "Кусочек крыжовникова пирога",
+  "item.veridiafoods.gooseberry_pie": "Крыжовниковый пирог",
+  "item.veridiafoods.cranberry_pie_slice": "Кусочек клюквенного пирога",
+  "item.veridiafoods.cranberry_pie": "Клюквенный пирог",
+
+  "item.veridiafoods.blue_berry_juice": "Сок из черники",
+  "item.veridiafoods.blue_berry_juice_regeneration": "Супер сок из черники",
+  "item.veridiafoods.cranberry_juice": "Сок из клюквы",
+  "item.veridiafoods.cranberry_juice_speed": "Супер сок из клюквы",
+  "item.veridiafoods.goose_berry_juice": "Сок из крыжовника",
+  "item.veridiafoods.goose_berry_juice_strength": "Супер сок из крыжовника",
+
+  "item.veridiafoods.bottle_of_milk": "Пузырёк молока",
+
+  "ptab.veridiafoods.ptab": "Veridia Foods Разное",
+
+  "effect.veridiafoods.plague": "Зомби Вирус",
+  "item.minecraft.potion.effect.plague_potion": "Plague potion",
+  "item.minecraft.splash_potion.effect.plague_potion": "Splash plague potion",
+  "item.minecraft.lingering_potion.effect.plague_potion": "Lingering plague potion",
+  "entity.minecraft.villager.veridiafoods.sage_villager": "Мудрый житель"
+}

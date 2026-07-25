@@ -1,0 +1,6 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [{ "item": "minecraft:porkchop" }],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridiafoods:ground_pork", "count": 1 }
+}

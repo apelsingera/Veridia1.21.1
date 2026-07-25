@@ -1,0 +1,19 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:cranberries" },
+    { "item": "veridiafoods:cranberries" },
+    { "item": "veridiafoods:carrot_pasta" },
+    { "item": "minecraft:gold_nugget" },
+    { "item": "veridiafoods:garlic" },
+    { "item": "veridiafoods:cheese" },
+    { "item": "veridiafoods:red_bell_pepper_slice" },
+    { "item": "veridiafoods:ground_pork" },
+    { "item": "veridiafoods:ground_beef" }
+  ],
+  "tool_requirement": "knife",
+  "result": {
+    "id": "veridiafoods:ronaldo_pasta",
+    "count": 1
+  }
+}

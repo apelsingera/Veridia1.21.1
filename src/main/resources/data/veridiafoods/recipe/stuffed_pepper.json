@@ -1,0 +1,12 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:red_bell_pepper"},
+    { "item": "veridiafoods:ground_pork" },
+    { "item": "veridiafoods:ground_beef" }
+  ],
+  "result": {
+    "id": "veridiafoods:unfinished_stuffed_pepper",
+    "count": 1
+  }
+}

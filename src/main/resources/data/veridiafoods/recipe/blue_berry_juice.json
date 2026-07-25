@@ -1,0 +1,11 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:blue_berry" },
+    { "item": "veridiafoods:blue_berry" },
+    { "item": "veridiafoods:blue_berry" },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridiafoods:blue_berry_juice", "count": 1 }
+}

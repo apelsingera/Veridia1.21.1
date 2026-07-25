@@ -1,0 +1,11 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:wheat_flour"},
+    { "item": "minecraft:water_bucket" }
+  ],
+  "result": {
+    "id": "veridiafoods:dough",
+    "count": 1
+  }
+}

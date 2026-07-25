@@ -1,0 +1,13 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:pasta" },
+    { "item": "veridiafoods:pasta" },
+    { "item": "minecraft:water_bucket" }
+  ],
+  "consume_containers": true,
+  "result": {
+    "id": "veridiafoods:pasta_bucket",
+    "count": 1
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "item.veridiafoods.plant_string": "Grass string",
+  "item.veridiafoods.plant_clump": "Grass bunch",
+  "item.veridiafoods.dandelion_root": "Dandelions Root",
+  "item.veridiafoods.crude_knife": "Crude knife",
+  "item.veridiafoods.crude_hammer": "Crude hammer",
+  "item.veridiafoods.tomato": "Tomato",
+  "item.veridiafoods.red_onion": "Red onion",
+  "item.veridiafoods.garlic": "Garlic",
+  "item.veridiafoods.garlic_seeds": "Garlic seeds",
+  "item.veridiafoods.red_bell_pepper": "Red bell pepper",
+  "item.veridiafoods.red_bell_pepper_slice": "Red bell pepper slice",
+  "item.veridiafoods.bell_pepper_seeds": "Bell pepper seeds",
+  "item.veridiafoods.blue_berry": "Blueberries",
+  "item.veridiafoods.goose_berry": "Gooseberries",
+  "item.veridiafoods.cranberries": "Cranberries",
+
+  "item.veridiafoods.wheat_flour": "Wheat flour",
+  "item.veridiafoods.dough": "Dough",
+
+
+  "item.veridiafoods.pasta": "Pasta",
+  "item.veridiafoods.tasty_pasta": "Tasty pasta",
+  "item.veridiafoods.pasta_bucket": "Pasta bucket",
+  "item.veridiafoods.cooked_pasta_bucket": "Cooked Pasta bucket",
+  "item.veridiafoods.carrot_pasta": "Carrot pasta",
+  "item.veridiafoods.ronaldo_pasta": "RONALDO PASTA",
+
+  "item.veridiafoods.potato_puree": "Potato puree",
+
+  "item.veridiafoods.ground_pork": "Ground pork",
+  "item.veridiafoods.pork_patty": "Pork patty",
+  "item.veridiafoods.cooked_pork_patty": "Cooked pork patty",
+  "item.veridiafoods.porkchop_slice": "Porkchop slice",
+  "item.veridiafoods.ground_beef": "Ground beef",
+  "item.veridiafoods.beef_patty": "Beef patty",
+  "item.veridiafoods.cooked_beef_patty": "Cooked beef patty",
+
+  "item.veridiafoods.unfinished_stuffed_pepper": "Unfinished stuffed pepper",
+  "item.veridiafoods.stuffed_pepper": "Stuffed pepper",
+
+  "item.veridiafoods.nice_breakfast": "Nice breakfast",
+  "item.veridiafoods.beef_burger": "Beef burger",
+  "item.veridiafoods.chicken_legs": "Chicken legs",
+  "item.veridiafoods.beef_with_mashed_potatoes": "Beef with mashed potatoes",
+  "item.veridiafoods.piquant_elite_fish_dish": "Piquant elite fish-dish",
+
+  "item.veridiafoods.cheese": "Cheese",
+  "item.veridiafoods.boiled_egg": "Boiled egg",
+  "item.veridiafoods.bucket_with_egg": "Egg bucket",
+  "item.veridiafoods.boiled_egg_bucket": "Boiled egg bucket",
+
+  "item.veridiafoods.exotic_seasoning1": "Exotic Seasoning",
+  "item.veridiafoods.exotic_seasoning2": "Exotic Seasoning",
+  "item.veridiafoods.exotic_seasoning3": "Exotic Seasoning",
+
+  "block.veridiafoods.sculk_log": "Sculk log",
+  "block.veridiafoods.stripped_sculk_log": "Stripped sculk log",
+  "block.veridiafoods.sculk_wood": "Sculk wood",
+  "block.veridiafoods.stripped_sculk_wood": "Stripped sculk wood",
+  "block.veridiafoods.sculk_planks": "Sculk planks",
+  "block.veridiafoods.sculk_leaves": "Sculk leaves",
+  "block.veridiafoods.sculk_sprout": "Sculk sprout",
+
+  "block.veridiafoods.garlic_crop": "Garlic Crop" ,
+  "block.veridiafoods.bell_pepper_crop": "Bell pepper Crop",
+  "block.veridiafoods.blue_berry_bush": "Blue Berry Bush",
+  "block.veridiafoods.goose_berry_bush": "Goose Berry Bush",
+  "block.veridiafoods.cranberry_bush": "Cranberry Bush",
+
+  "item.veridiafoods.blueberry_pie_slice": "Slice of blueberry pie ",
+  "item.veridiafoods.blueberry_pie": "Blueberry pie ",
+  "item.veridiafoods.gooseberry_pie_slice": "Slice of gooseberry pie ",
+  "item.veridiafoods.gooseberry_pie": "Gooseberry pie ",
+  "item.veridiafoods.cranberry_pie_slice": "Slice of cranberry pie ",
+  "item.veridiafoods.cranberry_pie": "Cranberry pie ",
+
+  "item.veridiafoods.blue_berry_juice": "Blueberry juice ",
+  "item.veridiafoods.blue_berry_juice_regeneration": "Super blueberry juice",
+  "item.veridiafoods.cranberry_juice": "Cranberry juice",
+  "item.veridiafoods.cranberry_juice_speed": "Super cranberry juice",
+  "item.veridiafoods.goose_berry_juice": "Gooseberry juice",
+  "item.veridiafoods.goose_berry_juice_strength": "Super GooseBerry juice",
+
+  "item.veridiafoods.bottle_of_milk": "Bottle Of Milk",
+
+  "ptab.veridiafoods.ptab": "Veridia Foods Misc",
+
+  "effect.veridiafoods.plague": "Plague",
+  "item.minecraft.potion.effect.plague_potion": "Plague potion",
+  "item.minecraft.splash_potion.effect.plague_potion": "Splash plague potion",
+  "item.minecraft.lingering_potion.effect.plague_potion": "Lingering plague potion",
+  "block.veridiafoods.cooking_table": "Cooking Table",
+  "entity.minecraft.villager.veridiafoods.sage_villager": "Sage"
+}

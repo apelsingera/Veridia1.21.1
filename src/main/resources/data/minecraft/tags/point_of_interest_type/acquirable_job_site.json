@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "veridiafoods:sage_poi",
+      "required": false
+    }
+  ]
+}

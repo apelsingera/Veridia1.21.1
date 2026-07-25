@@ -1,0 +1,11 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:ground_beef"},
+    { "item": "minecraft:bread" }
+  ],
+  "result": {
+    "id": "veridiafoods:beef_patty",
+    "count": 1
+  }
+}

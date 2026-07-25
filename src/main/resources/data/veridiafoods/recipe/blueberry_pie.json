@@ -1,0 +1,18 @@
+{
+  "type": "veridiafoods:cooking_table",
+  "ingredients": [
+    { "item": "veridiafoods:dough"},
+    { "item": "veridiafoods:dough"},
+    { "item": "veridiafoods:dough"},
+    { "item": "minecraft:sugar"},
+    { "item": "minecraft:sugar"},
+    { "item": "veridiafoods:blue_berry"},
+    { "item": "veridiafoods:blue_berry"},
+    { "item": "veridiafoods:blue_berry"},
+    { "item": "minecraft:milk_bucket" }
+  ],
+  "result": {
+    "id": "veridiafoods:blueberry_pie",
+    "count": 1
+  }
+}
