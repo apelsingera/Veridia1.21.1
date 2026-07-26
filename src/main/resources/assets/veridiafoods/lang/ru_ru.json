@@ -1,10 +1,12 @@
 {
   "item.veridiafoods.plant_string": "Травяная нитка",
+  "item.veridiafoods.fiber_net": "Травяная сетка",
   "item.veridiafoods.plant_clump": "Пучок Травы",
   "item.veridiafoods.dandelion_root": "Корешок Одуванчика",
   "item.veridiafoods.crude_knife": "Тупой нож",
+  "item.veridiafoods.super_sharp_knife": "Сверх-острый нож",
   "item.veridiafoods.crude_hammer": "Простой молот",
-  "item.veridiafoods.tomato": "Помидор",
+  "item.veridiafoods.tomato_cherry": "Помидорка черри",
   "item.veridiafoods.red_onion": "Красный лук",
   "item.veridiafoods.garlic": "Чеснок",
   "item.veridiafoods.garlic_seeds": "Семена чеснока",
@@ -43,6 +45,7 @@
   "item.veridiafoods.beef_with_mashed_potatoes": "Говядина с картофельным пюре",
   "item.veridiafoods.piquant_elite_fish_dish": "Элитная пряная рыба",
 
+  "item.veridiafoods.butter": "Масло",
   "item.veridiafoods.cheese": "Сыр",
   "item.veridiafoods.boiled_egg": "Варённое яйцо",
   "item.veridiafoods.bucket_with_egg": "Ведро с яйцом",
@@ -81,7 +84,7 @@
   "item.veridiafoods.goose_berry_juice": "Сок из крыжовника",
   "item.veridiafoods.goose_berry_juice_strength": "Супер сок из крыжовника",
 
-  "item.veridiafoods.bottle_of_milk": "Пузырёк молока",
+  "item.veridiafoods.milk_with_butter": "Молоко с маслом",
 
   "ptab.veridiafoods.ptab": "Veridia Foods Разное",
 

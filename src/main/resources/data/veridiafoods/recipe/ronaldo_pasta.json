@@ -8,8 +8,8 @@
     { "item": "veridiafoods:garlic" },
     { "item": "veridiafoods:cheese" },
     { "item": "veridiafoods:red_bell_pepper_slice" },
-    { "item": "veridiafoods:ground_pork" },
-    { "item": "veridiafoods:ground_beef" }
+    { "item": "veridiafoods:cooked_beef_patty" },
+    { "item": "veridiafoods:cooked_pork_patty" }
   ],
   "tool_requirement": "knife",
   "result": {

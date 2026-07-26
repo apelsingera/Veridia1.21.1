@@ -21,10 +21,8 @@ public class ModItemTagProvider extends ItemTagsProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider provider) {
-        tag(ModTags.Items.TRANSFORMABLE_ITEMS)
+        tag(ModTags.Items.KNIVES)
                 .add(ModItems.CRUDE_KNIFE.get())
-                .add(Items.COAL)
-                .add(Items.STICK)
-                .add(Items.COMPASS);
+                .add(ModItems.SS_KNIFE.get());
     }
 }

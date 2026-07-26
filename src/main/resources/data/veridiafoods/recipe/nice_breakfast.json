@@ -2,7 +2,7 @@
   "type": "veridiafoods:cooking_table",
   "ingredients": [
     { "item": "veridiafoods:boiled_egg"},
-    { "item": "veridiafoods:tomato" },
+    { "item": "veridiafoods:tomato_cherry" },
     { "item": "veridiafoods:cooked_pork_patty" },
     { "item": "veridiafoods:exotic_seasoning3" }
   ],

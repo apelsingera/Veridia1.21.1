@@ -6,6 +6,7 @@ import net.gera.veridiafoods.item.ModItems;
 import net.gera.veridiafoods.recipe.ModRecipes;
 import net.gera.veridiafoods.recipe.cookingtable.CookingTableRecipe;
 import net.gera.veridiafoods.recipe.cookingtable.CookingTableRecipeInput;
+import net.gera.veridiafoods.util.ModTags;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.NonNullList;
@@ -48,7 +49,7 @@ public class CookingTableBlockEntity extends BlockEntity implements MenuProvider
         @Override
         public boolean isItemValid(int slot, ItemStack stack) {
             if (slot == TOOL_INPUT1) {
-                return stack.is(ModItems.CRUDE_KNIFE.get());
+                return stack.is(ModTags.Items.KNIVES); // Проверка сразу всей группы ножей
             }
             if (slot == TOOL_INPUT2) {
                 return stack.is(ModItems.CRUDE_HAMMER.get());

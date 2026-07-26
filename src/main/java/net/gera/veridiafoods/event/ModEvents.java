@@ -15,11 +15,11 @@ import net.gera.veridiafoods.potion.ModPotions;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.alchemy.PotionBrewing;
 import net.minecraft.world.item.alchemy.Potions;
-import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.event.brewing.RegisterBrewingRecipesEvent;
 import net.neoforged.neoforge.event.village.VillagerTradesEvent;
 
 import java.util.List;
+import java.util.Optional;
 
 @EventBusSubscriber(modid = VeridiaFoods.MOD_ID, bus = EventBusSubscriber.Bus.GAME)
 public class ModEvents {
@@ -44,20 +44,25 @@ public class ModEvents {
 
             trades.get(1).add((entity, randomSource) -> new MerchantOffer(
                     new ItemCost(ModItems.GARLIC, 1),
-                    new ItemStack(ModItems.RED_ONION.get(), 2), 24, 2, 0.05f));
+                    Optional.of(new ItemCost(ModItems.DANDELIONS_ROOT, 1)),
+                    new ItemStack(ModItems.RED_ONION.get(), 3), 4, 1, 0.05f));
             trades.get(1).add((entity, randomSource) -> new MerchantOffer(
                     new ItemCost(ModItems.PLANT_STRING, 11),
-                    new ItemStack(ModItems.BELL_PEPPER_SEEDS.get(), 1), 24, 2, 0.05f));
+                    new ItemStack(ModItems.BELL_PEPPER_SEEDS.get(), 1), 5, 1, 0.05f));
             trades.get(2).add((entity, randomSource) -> new MerchantOffer(
                     new ItemCost(ModItems.RED_BELL_PEPPER, 1),
-                    new ItemStack(ModItems.TOMATO.get(), 2), 24, 3, 0.05f));
+                    new ItemStack(ModItems.TOMATO_CHERRY.get(), 2), 4, 2, 0.05f));
             trades.get(2).add((entity, randomSource) -> new MerchantOffer(
-                    new ItemCost(ModItems.MILK_BOTTLE, 2),
-                    new ItemStack(ModItems.CHEESE.get(), 1), 24, 4, 0.05f));
+                    new ItemCost(ModItems.MILK_N_BUTTER, 2),
+                    new ItemStack(ModItems.CHEESE.get(), 1), 5, 2, 0.05f));
+            trades.get(3).add((entity, randomSource) -> new MerchantOffer(
+                    new ItemCost(ModItems.FIBER_NET, 1),
+                    Optional.of(new ItemCost(Items.MILK_BUCKET, 1)),
+                    new ItemStack(ModItems.BUTTER.get(), 4), 5, 5, 0.05f));
             trades.get(3).add((entity, randomSource) -> new MerchantOffer(
                     new ItemCost(Items.EMERALD, 1),
                     new ItemStack(ModItems.EXOTIC_SEASONING1.get(), 3), 3, 4, 0.05f));
-            trades.get(3).add((entity, randomSource) -> new MerchantOffer(
+            trades.get(4).add((entity, randomSource) -> new MerchantOffer(
                     new ItemCost(Items.EMERALD, 2),
                     new ItemStack(ModItems.EXOTIC_SEASONING2.get(), 3), 3, 4, 0.05f));
             trades.get(4).add((entity, randomSource) -> new MerchantOffer(

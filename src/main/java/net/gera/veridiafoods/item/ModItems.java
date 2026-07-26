@@ -4,6 +4,7 @@ import net.gera.veridiafoods.VeridiaFoods;
 import net.gera.veridiafoods.block.ModBlocks;
 import net.gera.veridiafoods.item.custom.tools.CrudeKnifeItem;
 import net.gera.veridiafoods.item.custom.tools.CrudeHammerItem;
+import net.gera.veridiafoods.item.custom.tools.SharpKnifeItem;
 import net.minecraft.world.item.*;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -14,10 +15,14 @@ public class ModItems {
 
     public static final DeferredItem<Item> PLANT_STRING = ITEMS.register("plant_string",
             () -> new Item(new Item.Properties()));
+    public static final DeferredItem<Item> FIBER_NET = ITEMS.register("fiber_net",
+            () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> PLANT_CLUMP = ITEMS.register("plant_clump",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> CRUDE_KNIFE = ITEMS.register("crude_knife",
             CrudeKnifeItem::new);
+    public static final DeferredItem<Item> SS_KNIFE = ITEMS.register("super_sharp_knife",
+            SharpKnifeItem::new);
     public static final DeferredItem<Item> CRUDE_HAMMER = ITEMS.register("crude_hammer",
             CrudeHammerItem::new);
     public static final DeferredItem<Item> DANDELIONS_ROOT = ITEMS.register("dandelion_root",
@@ -25,7 +30,7 @@ public class ModItems {
 
     public static final DeferredItem<Item> GARLIC_SEEDS = ITEMS.register("garlic_seeds",
             () -> new ItemNameBlockItem(ModBlocks.GARLIC_CROP.get(), new Item.Properties()));
-    public static final DeferredItem<Item> TOMATO = ITEMS.register("tomato",
+    public static final DeferredItem<Item> TOMATO_CHERRY = ITEMS.register("tomato_cherry",
             () -> new Item(new Item.Properties().food(ModFoodProps.GENERIC_VEGETABLE)));
     public static final DeferredItem<Item> RED_ONION = ITEMS.register("red_onion",
             () -> new Item(new Item.Properties().food(ModFoodProps.GENERIC_VEGETABLE)));
@@ -131,6 +136,8 @@ public class ModItems {
     /**
      *  DAIRY
      */
+    public static final DeferredItem<Item> BUTTER = ITEMS.register("butter",
+            () -> new Item(new Item.Properties().food(ModFoodProps.BUTTER)));
     public static final DeferredItem<Item> CHEESE = ITEMS.register("cheese",
             () -> new Item(new Item.Properties().food(ModFoodProps.CHEESE)));
     /**
@@ -166,9 +173,9 @@ public class ModItems {
             () -> new DrinkItem(new Item.Properties()
                     .food(ModFoodProps.CRANBERRY_JUICE_SPEED).stacksTo(16)));
 
-    public static final DeferredItem<Item> MILK_BOTTLE = ITEMS.register("bottle_of_milk",
+    public static final DeferredItem<Item> MILK_N_BUTTER = ITEMS.register("milk_with_butter",
             () -> new DrinkItem(new Item.Properties()
-                    .food(ModFoodProps.MILK).stacksTo(16)));
+                    .food(ModFoodProps.NONE).stacksTo(16)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

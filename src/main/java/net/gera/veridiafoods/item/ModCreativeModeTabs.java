@@ -20,9 +20,10 @@ public class ModCreativeModeTabs {
                     .title(Component.translatable("ptab.veridiafoods.ptab"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.PLANT_STRING);
+                        output.accept(ModItems.FIBER_NET);
                         output.accept(ModItems.PLANT_CLUMP);
                         output.accept(ModItems.DANDELIONS_ROOT);
-                        output.accept(ModItems.TOMATO);
+                        output.accept(ModItems.TOMATO_CHERRY);
                         output.accept(ModItems.RED_ONION);
                         output.accept(ModItems.GARLIC);
                         output.accept(ModItems.GARLIC_SEEDS);
@@ -73,7 +74,8 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.RONALDO_PASTA);
                         output.accept(ModItems.POTATO_PUREE);
                         /// - /// - /// - /// - /// - /// - /// - ///
-                        output.accept(ModItems.MILK_BOTTLE);
+                        output.accept(ModItems.MILK_N_BUTTER);
+                        output.accept(ModItems.BUTTER);
                         output.accept(ModItems.CHEESE);
                         output.accept(ModItems.BOILED_EGG);
                         output.accept(ModItems.EGG_BUCKET);
@@ -82,6 +84,7 @@ public class ModCreativeModeTabs {
 
                         output.accept(ModItems.CRUDE_HAMMER);
                         output.accept(ModItems.CRUDE_KNIFE);
+                        output.accept(ModItems.SS_KNIFE);
 
                         output.accept(ModItems.EXOTIC_SEASONING1);
                         output.accept(ModItems.EXOTIC_SEASONING2);

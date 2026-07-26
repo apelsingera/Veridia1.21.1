@@ -53,7 +53,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .define('D', ModBlocks.PLANT_CLUMP_BLOCK.get())
                 .unlockedBy("has_clump", has(ModItems.PLANT_CLUMP)).save(recipeOutput);
         //SHAPELESS
-        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.PLANT_CLUMP.get(), 9)
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.PLANT_CLUMP.get(), 4)
                 .requires(ModBlocks.PLANT_CLUMP_BLOCK)
                 .unlockedBy("has_clump_block", has(ModBlocks.PLANT_CLUMP_BLOCK)).save(recipeOutput, "veridiafoods:clump_block_to_clump_1");
     }

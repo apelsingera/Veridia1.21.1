@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "veridiafoods:item/bottle_of_milk"
+    "layer0": "veridiafoods:item/fiber_net"
   }
 }

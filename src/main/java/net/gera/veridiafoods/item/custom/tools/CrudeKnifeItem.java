@@ -54,12 +54,12 @@ public class CrudeKnifeItem extends Item {
                     dropStack = new ItemStack(ModItems.PLANT_CLUMP.get());
                     breakChance = 0.45F;
                 } else {
-                    if (random.nextFloat() < 0.20F) {
+                    if (random.nextFloat() < 0.32F) {
                         dropStack = new ItemStack(ModItems.DANDELIONS_ROOT.get());
                     } else {
                         dropStack = new ItemStack(Items.DANDELION);
                     }
-                    breakChance = 0.60F;
+                    breakChance = 0.40F;
                 }
 
                 ItemEntity itemEntity = new ItemEntity(

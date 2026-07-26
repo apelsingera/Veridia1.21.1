@@ -22,11 +22,13 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         basicItem(ModItems.DANDELIONS_ROOT.get());
         basicItem(ModItems.PLANT_CLUMP.get());
+        basicItem(ModItems.FIBER_NET.get());
         basicItem(ModItems.PLANT_STRING.get());
         handheldItem(ModItems.CRUDE_KNIFE.get());
+        handheldItem(ModItems.SS_KNIFE.get());
         handheldItem(ModItems.CRUDE_HAMMER.get());
         basicItem(ModItems.GARLIC_SEEDS.get());
-        basicItem(ModItems.TOMATO.get());
+        basicItem(ModItems.TOMATO_CHERRY.get());
         basicItem(ModItems.RED_ONION.get());
         basicItem(ModItems.GARLIC.get());
         basicItem(ModItems.BELL_PEPPER_SEEDS.get());
@@ -52,6 +54,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         basicItem(ModItems.NICE_BREAKFAST.get());
 
         basicItem(ModItems.CHEESE.get());
+        basicItem(ModItems.BUTTER.get());
         basicItem(ModItems.BOILED_EGG.get());
         basicItem(ModItems.EGG_BUCKET.get());
         basicItem(ModItems.BOILED_EGG_BUCKET.get());
@@ -78,7 +81,7 @@ public class ModItemModelProvider extends ItemModelProvider {
 
         basicItem(ModItems.POTATO_PUREE.get());
 
-        basicItem(ModItems.MILK_BOTTLE.get());
+        basicItem(ModItems.MILK_N_BUTTER.get());
         basicItem(ModItems.BLUE_BERRY_JUICE.get());
         basicItem(ModItems.SUPER_BLUE_BERRY_JUICE.get());
         basicItem(ModItems.CRANBERRY_JUICE.get());

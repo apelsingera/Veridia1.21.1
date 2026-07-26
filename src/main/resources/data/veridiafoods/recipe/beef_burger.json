@@ -2,7 +2,8 @@
   "type": "veridiafoods:cooking_table",
   "ingredients": [
     { "item": "veridiafoods:cooked_beef_patty"},
-    { "item": "veridiafoods:tomato" },
+    { "item": "veridiafoods:tomato_cherry" },
+    { "item": "veridiafoods:tomato_cherry" },
     { "item": "veridiafoods:cheese" },
     { "item": "veridiafoods:red_onion" },
     { "item": "veridiafoods:exotic_seasoning1" },

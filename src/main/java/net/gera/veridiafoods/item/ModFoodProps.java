@@ -14,6 +14,7 @@ public class ModFoodProps {
 
     public static final FoodProperties EGG = new FoodProperties.Builder().nutrition(4).saturationModifier(0.6f).build();
     public static final FoodProperties CHEESE = new FoodProperties.Builder().nutrition(3).saturationModifier(0.6f).build();
+    public static final FoodProperties BUTTER = new FoodProperties.Builder().nutrition(2).saturationModifier(0.3f).build();
     public static final FoodProperties GENERIC_VEGETABLE = new FoodProperties.Builder().nutrition(2).saturationModifier(0.5f).build();
     public static final FoodProperties RED_BELL_PEPPER = new FoodProperties.Builder().nutrition(3).saturationModifier(0.5f).build();
     public static final FoodProperties RED_BELL_PEPPER_SLICE = new FoodProperties.Builder().nutrition(1).saturationModifier(0.2f).fast().build();
@@ -55,7 +56,7 @@ public class ModFoodProps {
       DRINKS
      */
     public static final FoodProperties JUICE = new FoodProperties.Builder().nutrition(2).saturationModifier(0.4f).build();
-    public static final FoodProperties MILK = new FoodProperties.Builder().nutrition(0).saturationModifier(0f).build();
+    public static final FoodProperties NONE = new FoodProperties.Builder().nutrition(0).saturationModifier(0f).build();
     ///
     public static final FoodProperties BLUE_BERRY_JUICE_REGEN = new FoodProperties.Builder().nutrition(3).saturationModifier(0.4f)
             .effect(() -> new MobEffectInstance(MobEffects.REGENERATION, 200, 0), 1f).build();

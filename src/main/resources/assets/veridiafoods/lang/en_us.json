@@ -1,10 +1,12 @@
 {
   "item.veridiafoods.plant_string": "Grass string",
+  "item.veridiafoods.fiber_net": "Fiber net",
   "item.veridiafoods.plant_clump": "Grass bunch",
   "item.veridiafoods.dandelion_root": "Dandelions Root",
   "item.veridiafoods.crude_knife": "Crude knife",
+  "item.veridiafoods.super_sharp_knife": "Super sharp knife",
   "item.veridiafoods.crude_hammer": "Crude hammer",
-  "item.veridiafoods.tomato": "Tomato",
+  "item.veridiafoods.tomato_cherry": "Tomato cherry",
   "item.veridiafoods.red_onion": "Red onion",
   "item.veridiafoods.garlic": "Garlic",
   "item.veridiafoods.garlic_seeds": "Garlic seeds",
@@ -45,6 +47,7 @@
   "item.veridiafoods.beef_with_mashed_potatoes": "Beef with mashed potatoes",
   "item.veridiafoods.piquant_elite_fish_dish": "Piquant elite fish-dish",
 
+  "item.veridiafoods.butter": "Butter",
   "item.veridiafoods.cheese": "Cheese",
   "item.veridiafoods.boiled_egg": "Boiled egg",
   "item.veridiafoods.bucket_with_egg": "Egg bucket",
@@ -82,7 +85,7 @@
   "item.veridiafoods.goose_berry_juice": "Gooseberry juice",
   "item.veridiafoods.goose_berry_juice_strength": "Super GooseBerry juice",
 
-  "item.veridiafoods.bottle_of_milk": "Bottle Of Milk",
+  "item.veridiafoods.milk_with_butter": "Milk with butter",
 
   "ptab.veridiafoods.ptab": "Veridia Foods Misc",
 

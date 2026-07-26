@@ -1,8 +1,8 @@
 {
   "type": "veridiafoods:cooking_table",
   "ingredients": [
-    { "item": "veridiafoods:tomato" },
-    { "item": "veridiafoods:tomato" },
+    { "item": "veridiafoods:tomato_cherry" },
+    { "item": "veridiafoods:tomato_cherry" },
     { "item": "veridiafoods:exotic_seasoning1" },
     { "item": "veridiafoods:garlic" },
     { "item": "minecraft:cooked_chicken" },

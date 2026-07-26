@@ -2,7 +2,7 @@
   "type": "veridiafoods:cooking_table",
   "ingredients": [
     { "item": "minecraft:baked_potato" },
-    { "item": "veridia:bottle_of_milk" },
+    { "item": "veridiafoods:milk_with_butter" },
     { "item": "minecraft:bowl" }
   ],
   "tool_requirement": "hammer",
