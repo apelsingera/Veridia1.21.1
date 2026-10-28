@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "berries=false": {
+      "model": "veridia:block/cuma_cuma_bush_block"
+    },
+    "berries=true": {
+      "model": "veridia:block/cuma_cuma_bush_block_berries"
+    }
+  }
+}

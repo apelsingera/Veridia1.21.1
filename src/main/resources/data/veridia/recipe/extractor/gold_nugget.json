@@ -1,0 +1,20 @@
+{
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "upgrade": {
+    "item": "veridia:alchemist_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "minecraft:lava"
+    },
+    "amount": 250
+  },
+  "result": {
+    "id": "minecraft:gold_nugget",
+    "count": 15
+  },
+  "time": 400
+}

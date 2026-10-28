@@ -1,0 +1,14 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:cooked_horse_meat" },
+    { "item": "veridia:cooked_horse_meat" },
+    { "item": "veridia:dough" },
+    { "item": "veridia:red_onion" },
+    { "item": "veridia:blue_berry_juice" },
+    { "item": "veridia:exotic_seasoning1" },
+    { "item": "minecraft:carrot" }
+  ],
+  "tool_requirement": "knife",
+  "result": { "id": "veridia:beshbarmak", "count": 1 }
+}

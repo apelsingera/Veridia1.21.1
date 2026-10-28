@@ -1,0 +1,3244 @@
+{
+  "variants": {
+    "cracks=0,half=lower,prayers=0,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=0,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=0,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=0,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=0,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=0,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=0,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=0,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=1,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=1,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=1,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=1,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=1,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=1,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=1,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=1,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=10,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=10,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=10,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=10,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=10,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=10,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=10,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=10,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=11,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=11,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=11,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=11,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=11,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=11,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=11,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=11,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=12,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=12,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=12,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=12,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=12,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=12,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=12,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=12,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=13,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=13,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=13,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=13,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=13,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=13,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=13,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=13,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=14,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=14,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=14,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=14,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=14,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=14,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=14,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=14,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=15,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=15,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=15,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=15,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=15,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=15,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=15,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=15,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=16,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=16,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=16,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=16,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=16,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=16,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=16,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=16,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=17,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=17,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=17,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=17,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=17,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=17,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=17,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=17,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=18,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=18,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=18,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=18,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=18,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=18,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=18,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=18,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=19,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=19,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=19,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=19,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=19,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=19,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=19,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=19,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=2,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=2,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=2,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=2,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=2,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=2,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=2,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=2,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=3,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=3,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=3,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=3,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=3,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=3,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=3,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=3,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=4,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=4,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=4,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=4,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=4,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=4,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=4,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=4,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=5,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=5,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=5,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=5,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=5,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=5,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=5,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=5,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=6,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=6,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=6,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=6,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=6,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=6,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=6,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=6,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=7,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=7,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=7,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=7,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=7,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=7,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=7,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=7,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=8,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=8,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=8,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=8,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=8,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=8,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=8,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=8,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=9,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=0,half=lower,prayers=9,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=0,half=lower,prayers=9,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=9,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=0,half=lower,prayers=9,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=9,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=0,half=lower,prayers=9,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=0,half=lower,prayers=9,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=0,half=upper,prayers=0,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=0,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=1,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=10,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=11,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=12,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=13,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=14,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=15,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=16,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=17,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=18,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=19,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=2,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=3,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=4,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=5,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=6,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=7,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=8,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=0,half=upper,prayers=9,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=lower,prayers=0,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=0,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=0,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=0,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=0,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=0,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=0,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=0,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=1,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=1,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=1,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=1,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=1,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=1,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=1,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=1,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=10,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=10,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=10,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=10,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=10,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=10,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=10,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=10,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=11,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=11,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=11,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=11,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=11,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=11,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=11,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=11,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=12,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=12,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=12,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=12,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=12,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=12,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=12,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=12,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=13,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=13,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=13,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=13,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=13,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=13,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=13,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=13,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=14,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=14,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=14,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=14,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=14,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=14,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=14,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=14,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=15,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=15,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=15,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=15,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=15,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=15,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=15,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=15,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=16,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=16,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=16,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=16,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=16,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=16,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=16,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=16,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=17,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=17,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=17,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=17,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=17,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=17,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=17,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=17,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=18,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=18,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=18,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=18,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=18,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=18,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=18,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=18,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=19,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=19,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=19,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=19,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=19,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=19,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=19,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=19,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=2,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=2,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=2,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=2,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=2,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=2,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=2,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=2,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=3,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=3,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=3,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=3,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=3,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=3,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=3,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=3,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=4,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=4,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=4,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=4,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=4,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=4,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=4,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=4,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=5,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=5,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=5,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=5,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=5,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=5,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=5,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=5,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=6,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=6,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=6,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=6,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=6,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=6,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=6,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=6,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=7,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=7,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=7,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=7,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=7,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=7,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=7,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=7,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=8,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=8,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=8,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=8,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=8,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=8,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=8,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=8,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=9,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=1,half=lower,prayers=9,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=1,half=lower,prayers=9,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=9,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=1,half=lower,prayers=9,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=9,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=1,half=lower,prayers=9,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=1,half=lower,prayers=9,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=1,half=upper,prayers=0,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=0,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=1,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=10,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=11,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=12,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=13,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=14,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=15,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=16,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=17,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=18,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=19,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=2,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=3,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=4,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=5,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=6,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=7,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=8,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=1,half=upper,prayers=9,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=lower,prayers=0,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=0,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=0,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=0,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=0,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=0,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=0,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=0,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=1,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=1,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=1,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=1,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=1,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=1,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=1,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=1,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=10,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=10,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=10,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=10,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=10,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=10,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=10,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=10,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=11,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=11,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=11,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=11,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=11,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=11,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=11,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=11,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=12,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=12,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=12,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=12,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=12,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=12,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=12,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=12,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=13,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=13,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=13,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=13,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=13,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=13,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=13,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=13,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=14,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=14,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=14,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=14,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=14,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=14,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=14,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=14,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=15,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=15,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=15,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=15,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=15,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=15,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=15,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=15,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=16,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=16,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=16,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=16,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=16,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=16,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=16,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=16,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=17,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=17,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=17,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=17,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=17,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=17,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=17,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=17,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=18,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=18,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=18,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=18,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=18,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=18,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=18,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=18,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=19,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=19,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=19,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=19,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=19,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=19,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=19,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=19,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=2,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=2,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=2,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=2,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=2,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=2,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=2,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=2,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=3,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=3,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=3,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=3,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=3,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=3,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=3,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=3,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=4,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=4,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=4,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=4,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=4,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=4,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=4,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=4,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=5,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=5,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=5,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=5,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=5,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=5,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=5,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=5,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=6,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=6,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=6,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=6,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=6,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=6,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=6,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=6,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=7,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=7,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=7,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=7,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=7,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=7,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=7,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=7,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=8,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=8,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=8,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=8,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=8,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=8,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=8,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=8,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=9,rotation=0": {
+      "model": "veridia:block/spiritual_runestone"
+    },
+    "cracks=2,half=lower,prayers=9,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_diagonal"
+    },
+    "cracks=2,half=lower,prayers=9,rotation=2": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=9,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 90
+    },
+    "cracks=2,half=lower,prayers=9,rotation=4": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=9,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 180
+    },
+    "cracks=2,half=lower,prayers=9,rotation=6": {
+      "model": "veridia:block/spiritual_runestone",
+      "y": 270
+    },
+    "cracks=2,half=lower,prayers=9,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_diagonal",
+      "y": 270
+    },
+    "cracks=2,half=upper,prayers=0,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=0,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=1,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=10,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=11,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=12,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=13,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=14,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=15,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=16,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=17,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=18,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=19,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=2,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=3,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=4,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=5,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=6,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=7,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=8,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=0": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=1": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=2": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=3": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=4": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=5": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=6": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    },
+    "cracks=2,half=upper,prayers=9,rotation=7": {
+      "model": "veridia:block/spiritual_runestone_upper"
+    }
+  }
+}

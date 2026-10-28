@@ -1,0 +1,6 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [{ "item": "minecraft:wheat" }],
+  "tool_requirement": "knife",
+  "result": { "id": "veridia:wheat_flour", "count": 3 }
+}

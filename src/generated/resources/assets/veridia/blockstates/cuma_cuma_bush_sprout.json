@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "berries=false,facing=east": {
+      "model": "veridia:block/cuma_cuma_bush_sprout",
+      "x": 90,
+      "y": 90
+    },
+    "berries=false,facing=north": {
+      "model": "veridia:block/cuma_cuma_bush_sprout",
+      "x": 90
+    },
+    "berries=false,facing=south": {
+      "model": "veridia:block/cuma_cuma_bush_sprout",
+      "x": 90,
+      "y": 180
+    },
+    "berries=false,facing=west": {
+      "model": "veridia:block/cuma_cuma_bush_sprout",
+      "x": 90,
+      "y": 270
+    },
+    "berries=true,facing=east": {
+      "model": "veridia:block/cuma_cuma_bush_sprout_berries",
+      "x": 90,
+      "y": 90
+    },
+    "berries=true,facing=north": {
+      "model": "veridia:block/cuma_cuma_bush_sprout_berries",
+      "x": 90
+    },
+    "berries=true,facing=south": {
+      "model": "veridia:block/cuma_cuma_bush_sprout_berries",
+      "x": 90,
+      "y": 180
+    },
+    "berries=true,facing=west": {
+      "model": "veridia:block/cuma_cuma_bush_sprout_berries",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "graveyard:dark_iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "D": {
+      "item": "minecraft:enchanting_table"
+    },
+    "E": {
+      "item": "minecraft:book"
+    }
+  },
+  "pattern": ["EAE", "ADA", "CBC"],
+  "result": {
+    "count": 1,
+    "id": "veridia:mythical_table"
+  }
+}

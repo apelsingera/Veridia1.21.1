@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "veridia:horse_meat"
+  },
+  "result": {
+    "id": "veridia:cooked_horse_meat"
+  },
+  "experience": 0.35,
+  "cookingtime": 100
+}

@@ -1,0 +1,11 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:goose_berry" },
+    { "item": "veridia:goose_berry" },
+    { "item": "veridia:goose_berry" },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridia:goose_berry_juice", "count": 1 }
+}

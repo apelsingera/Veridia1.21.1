@@ -1,0 +1,33 @@
+{
+  "parent": "veridia:materials/root",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:raw_aquatic_topaz"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.raw_aquatic_topaz.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:raw_aquatic_topaz"
+    },
+    "title": {
+      "translate": "advancement.veridia.raw_aquatic_topaz.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

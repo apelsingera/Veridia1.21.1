@@ -1,0 +1,39 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/steel"
+      }
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:storage_blocks/steel"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "C": {
+      "tag": "minecraft:planks"
+    },
+    "D": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "E": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": ["ABA", "CDC", " E "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:heavy_crossbow_steel_strengthened"
+  }
+}

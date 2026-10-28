@@ -1,0 +1,18 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:dough"},
+    { "item": "veridia:dough"},
+    { "item": "veridia:dough"},
+    { "item": "minecraft:sugar"},
+    { "item": "minecraft:sugar"},
+    { "item": "veridia:goose_berry"},
+    { "item": "veridia:goose_berry"},
+    { "item": "veridia:goose_berry"},
+    { "item": "minecraft:milk_bucket" }
+  ],
+  "result": {
+    "id": "veridia:gooseberry_pie",
+    "count": 1
+  }
+}

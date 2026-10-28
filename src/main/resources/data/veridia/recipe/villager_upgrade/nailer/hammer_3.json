@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "veridia:quadruple_iron_ingot" },
+  "count": 11
+}

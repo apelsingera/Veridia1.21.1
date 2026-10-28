@@ -50,8 +50,32 @@ Example mod description.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
-#[[mixins]]
-#config="${mod_id}.mixins.json"
+[[mixins]]
+config="${mod_id}.mixins.json"
+
+[[mixins]]
+config="${mod_id}.client.mixins.json"
+
+[[mixins]]
+config="${mod_id}.villager.mixins.json"
+
+[[mixins]]
+config="${mod_id}.worldgen.mixins.json"
+
+[[mixins]]
+config="${mod_id}.biome.mixins.json"
+
+[[mixins]]
+config="${mod_id}.spawner.mixins.json"
+
+[[mixins]]
+config="${mod_id}.graveyard.mixins.json"
+
+[[mixins]]
+config="${mod_id}.tfmg.mixins.json"
+
+[[mixins]]
+config="${mod_id}.cdg.mixins.json"
 
 # The [[accessTransformers]] block allows you to declare where your AT file is.
 # If this block is omitted, a fallback attempt will be made to load an AT from META-INF/accesstransformer.cfg
@@ -75,7 +99,9 @@ Example mod description.
     # An ordering relationship for the dependency.
     # BEFORE - This mod is loaded BEFORE the dependency
     # AFTER - This mod is loaded AFTER the dependency
-    ordering="NONE"
+    # AFTER: в среде разработки в jar NeoForge лежат и ванильные данные, и наши data/minecraft/recipe (замены
+    # ванильных рецептов) перекрываются ими, если Veridia грузится раньше NeoForge
+    ordering="AFTER"
     # Side this dependency is applied on - BOTH, CLIENT, or SERVER
     side="BOTH"
 
@@ -88,8 +114,52 @@ Example mod description.
     ordering="NONE"
     side="BOTH"
 
+# Dynamic Trees 1.7.2 подменяет центр равнинной деревни plains_meeting_point_3 своей обёрткой, чей шаблон
+# лежит в устаревшей папке structures/ и для игры не существует: деревня с таким центром состоит из одного
+# невидимого куска (каждая 4-я на равнинах). Наш data/minecraft/worldgen/template_pool/village/plains/
+# town_centers.json возвращает обычный центр, но работает только если Veridia грузится ПОСЛЕ Dynamic Trees
+# (у более позднего мода приоритет выше) - отсюда AFTER. Dynamic Trees не обязателен.
+[[dependencies.${mod_id}]]
+    modId="dynamictrees"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+# Рецепты сборки (бывший скрипт KubeJS) лежат в data/spartan_weaponry_unofficial, data/graveyard и data/farmersdelight
+# нашего мода и заменяют или выключают их рецепты с тем же id. Это работает, только если Veridia грузится ПОСЛЕ этих
+# модов (у более позднего мода приоритет выше) - отсюда AFTER. Сами моды не обязательны.
+[[dependencies.${mod_id}]]
+    modId="spartan_weaponry_unofficial"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="graveyard"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="farmersdelight"
+    type="optional"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
 # Features are specific properties of the game environment, that you may want to declare you require. This example declares
 # that your mod requires GL version 3.2 or higher. Other features will be added. They are side aware so declaring this won't
 # stop your mod loading on the server for example.
 #[features.${mod_id}]
 #openGLVersion="[3.2,)"
+
+# TerraBlender размещает биом Veridia (Пепельные пустоши) среди ванильных биомов Верхнего мира.
+[[dependencies.${mod_id}]]
+    modId="terrablender"
+    type="required"
+    versionRange="[4.1.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

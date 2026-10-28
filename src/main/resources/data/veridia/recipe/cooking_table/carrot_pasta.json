@@ -1,0 +1,15 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:porkchop_slice" },
+    { "item": "veridia:tasty_pasta" },
+    { "item": "minecraft:carrot" },
+    { "item": "minecraft:carrot" },
+    { "item": "veridia:red_bell_pepper_slice" }
+  ],
+  "tool_requirement": "knife",
+  "result": {
+    "id": "veridia:carrot_pasta",
+    "count": 1
+  }
+}

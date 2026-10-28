@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "spartan_weaponry_unofficial:stone_dagger"
+    },
+    "B": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "C": {
+      "tag": "c:cobblestones"
+    },
+    "D": {
+      "item": "veridia:plant_string"
+    }
+  },
+  "pattern": ["DA", "BC"],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:stone_parrying_dagger"
+  }
+}

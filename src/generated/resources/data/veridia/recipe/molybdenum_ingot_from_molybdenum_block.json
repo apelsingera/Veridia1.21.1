@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "veridia:molybdenum_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "veridia:molybdenum_ingot"
+  }
+}

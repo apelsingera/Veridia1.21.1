@@ -1,0 +1,8 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:blueberry_pie" }
+  ],
+  "tool_requirement": "knife",
+  "result": { "id": "veridia:blueberry_pie_slice", "count": 4 }
+}

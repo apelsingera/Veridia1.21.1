@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "dynamictrees:jungle_seed" },
+  "count": 32
+}

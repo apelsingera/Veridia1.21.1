@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "veridia:block/charred_cabinet_front",
+    "side": "veridia:block/charred_cabinet_side",
+    "top": "veridia:block/charred_cabinet_top"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": {
+    "item": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "gemstone": {
+    "item": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "count": 16
+  },
+  "primary": {
+    "item": {
+      "item": "minecraft:paper"
+    },
+    "count": 58
+  },
+  "secondary": {
+    "item": {
+      "item": "veridia:scorching_plasmafite"
+    },
+    "count": 5
+  },
+  "result": {
+    "id": "veridia:eternal_nether_pass",
+    "count": 1
+  }
+}

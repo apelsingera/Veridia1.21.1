@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "veridia:block/singe_stone_pillar_ionic",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "veridia:block/singe_stone_pillar_ionic"
+    },
+    "facing=south": {
+      "model": "veridia:block/singe_stone_pillar_ionic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "veridia:block/singe_stone_pillar_ionic",
+      "y": 270
+    }
+  }
+}

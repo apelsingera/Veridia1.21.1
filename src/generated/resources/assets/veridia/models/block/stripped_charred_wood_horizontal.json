@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "veridia:block/stripped_charred_log",
+    "side": "veridia:block/stripped_charred_log"
+  }
+}

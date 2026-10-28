@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:nether_string" }, "count": 4 },
+  "gemstone": { "item": { "item": "minecraft:black_wool" }, "count": 16 },
+  "primary": { "item": { "item": "minecraft:redstone" }, "count": 32 },
+  "secondary": { "item": { "item": "veridia:strong_cloth" }, "count": 14 },
+  "result": { "id": "veridia:newbie_mantle_boots", "count": 1 }
+}

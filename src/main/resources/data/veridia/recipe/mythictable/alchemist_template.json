@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "minecraft:andesite" }, "count": 15},
+  "gemstone": { "item": { "item": "minecraft:ender_pearl" }, "count": 3 },
+  "primary": { "item": { "item": "veridia:purpurite" }, "count": 1 },
+  "secondary": { "item": { "item": "minecraft:quartz" }, "count": 12 },
+  "result": { "id": "veridia:alchemist_upgrade", "count": 1 }
+}

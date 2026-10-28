@@ -1,6 +1,0 @@
-{
-  "type": "veridiafoods:cooking_table",
-  "ingredients": [{ "item": "minecraft:beef" }],
-  "tool_requirement": "hammer",
-  "result": { "id": "veridiafoods:ground_beef", "count": 1 }
-}

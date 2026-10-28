@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:veridite" }, "count": 2  },
+  "gemstone": { "item": { "item": "veridia:aquatic_topaz" } },
+  "primary": { "item": { "item": "minecraft:copper_block" } },
+  "secondary": { "item": { "item": "veridia:strong_handle" } },
+  "result": { "id": "veridia:electric_sword", "count": 1 }
+}

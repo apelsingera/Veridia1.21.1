@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "spartan_weaponry_unofficial:diamond_katana"
+    },
+    "B": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "veridia:strong_cloth"
+    },
+    "D": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": [" A ", "CB ", "BD "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:diamond_saber"
+  }
+}

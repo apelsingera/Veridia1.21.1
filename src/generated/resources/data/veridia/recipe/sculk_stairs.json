@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "sculk_planks",
+  "key": {
+    "#": {
+      "item": "veridia:sculk_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "veridia:sculk_stairs"
+  }
+}

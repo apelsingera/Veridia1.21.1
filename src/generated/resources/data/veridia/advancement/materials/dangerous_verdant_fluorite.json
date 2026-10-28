@@ -1,0 +1,33 @@
+{
+  "parent": "veridia:materials/verdant_fluorite",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:dangerous_verdant_fluorite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.dangerous_verdant_fluorite.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:dangerous_verdant_fluorite"
+    },
+    "title": {
+      "translate": "advancement.veridia.dangerous_verdant_fluorite.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

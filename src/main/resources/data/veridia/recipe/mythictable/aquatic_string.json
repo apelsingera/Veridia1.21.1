@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:nautilus_gland" }, "count": 4  },
+  "gemstone": { "item": { "item": "veridia:nether_string" }, "count": 2 },
+  "primary": { "item": { "item": "veridia:quadruple_diamond" }, "count": 1 },
+  "secondary": { "item": { "item": "minecraft:glow_ink_sac" }, "count": 7},
+  "result": { "id": "veridia:aquatic_string", "count": 1 }
+}

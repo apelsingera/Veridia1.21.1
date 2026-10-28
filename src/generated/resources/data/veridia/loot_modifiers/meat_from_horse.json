@@ -1,0 +1,12 @@
+{
+  "type": "veridia:random_count_meat",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/horse"
+    }
+  ],
+  "item": "veridia:horse_meat",
+  "max": 4,
+  "min": 2
+}

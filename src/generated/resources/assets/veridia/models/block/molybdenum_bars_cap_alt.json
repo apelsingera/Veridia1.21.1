@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/iron_bars_cap_alt",
+  "render_type": "minecraft:cutout_mipped",
+  "textures": {
+    "bars": "veridia:block/molybdenum_bars",
+    "edge": "veridia:block/molybdenum_bars",
+    "particle": "veridia:block/molybdenum_bars"
+  }
+}

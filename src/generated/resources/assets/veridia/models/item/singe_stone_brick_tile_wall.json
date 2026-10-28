@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "veridia:block/singe_stone_brick_tiles"
+  }
+}

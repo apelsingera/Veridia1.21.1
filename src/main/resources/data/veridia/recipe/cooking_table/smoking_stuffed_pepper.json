@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "veridia:unfinished_stuffed_pepper"
+  },
+  "result": {
+    "id": "veridia:stuffed_pepper"
+  },
+  "experience": 0.35,
+  "cookingtime": 100
+}

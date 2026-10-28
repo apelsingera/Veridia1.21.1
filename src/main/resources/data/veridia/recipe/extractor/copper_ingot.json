@@ -1,0 +1,20 @@
+{
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "minecraft:raw_copper"
+  },
+  "upgrade": {
+    "item": "veridia:alchemist_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "minecraft:lava"
+    },
+    "amount": 250
+  },
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 2
+  },
+  "time": 400
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "veridia:block/building_materials",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "veridia:block/building_materials"
+    },
+    "facing=south": {
+      "model": "veridia:block/building_materials",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "veridia:block/building_materials",
+      "y": 270
+    }
+  }
+}

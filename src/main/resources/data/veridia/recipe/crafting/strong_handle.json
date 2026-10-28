@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "veridia:sculk_planks"
+    },
+    "B": {
+      "item": "veridia:prismarine_crystal_powder"
+    },
+    "C": {
+      "item": "veridia:nautilus_gland"
+    },
+    "D": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "veridia:strong_cloth"
+    }
+  },
+  "pattern": ["D A", "EAB", "ACD"],
+  "result": {
+    "count": 1,
+    "id": "veridia:strong_handle"
+  }
+}

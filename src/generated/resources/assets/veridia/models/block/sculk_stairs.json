@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "veridia:block/sculk_planks",
+    "side": "veridia:block/sculk_planks",
+    "top": "veridia:block/sculk_planks"
+  }
+}

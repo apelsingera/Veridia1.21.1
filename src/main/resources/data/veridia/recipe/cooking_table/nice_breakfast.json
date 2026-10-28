@@ -1,0 +1,13 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:boiled_egg"},
+    { "item": "veridia:tomato_cherry" },
+    { "item": "veridia:cooked_pork_patty" },
+    { "item": "veridia:exotic_seasoning3" }
+  ],
+  "result": {
+    "id": "veridia:nice_breakfast",
+    "count": 1
+  }
+}

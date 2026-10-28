@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "veridia:block/ashen_log_top",
+    "side": "veridia:block/ashen_log"
+  }
+}

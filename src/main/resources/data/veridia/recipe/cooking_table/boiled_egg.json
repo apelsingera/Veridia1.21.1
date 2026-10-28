@@ -1,0 +1,10 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:boiled_egg_bucket"}
+  ],
+  "result": {
+    "id": "veridia:boiled_egg",
+    "count": 1
+  }
+}

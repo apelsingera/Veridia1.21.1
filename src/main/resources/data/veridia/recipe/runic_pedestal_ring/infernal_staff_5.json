@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "infernal_staff_5",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:infernal_staff_4"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:bloodstone"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "veridia:quadruple_gold_ingot"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone_block"
+      },
+      "count": 12
+    }
+  ],
+  "result": "veridia:infernal_staff_5"
+}

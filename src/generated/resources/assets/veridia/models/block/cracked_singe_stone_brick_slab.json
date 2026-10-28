@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "veridia:block/cracked_singe_stone_bricks",
+    "side": "veridia:block/cracked_singe_stone_bricks",
+    "top": "veridia:block/cracked_singe_stone_bricks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "veridia:block/sculk_pressure_plate"
+    },
+    "powered=true": {
+      "model": "veridia:block/sculk_pressure_plate_down"
+    }
+  }
+}

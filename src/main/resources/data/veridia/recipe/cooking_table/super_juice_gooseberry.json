@@ -1,0 +1,11 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:goose_berry_juice"},
+    { "item": "minecraft:golden_carrot" }
+  ],
+  "result": {
+    "id": "veridia:goose_berry_juice_strength",
+    "count": 1
+  }
+}

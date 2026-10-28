@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "minecraft:emerald" },
+  "count": 56
+}

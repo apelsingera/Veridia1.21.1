@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "veridia:fiber_net"
+    },
+    "B": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "C": {
+      "item": "minecraft:leather"
+    },
+    "D": {
+      "tag": "minecraft:wool"
+    },
+    "E": {
+      "item": "veridia:nautilus_gland"
+    }
+  },
+  "pattern": ["CBD", "AEA", "DBC"],
+  "result": {
+    "count": 1,
+    "id": "veridia:strong_cloth"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "veridia:crude_knife"
+    },
+    "C": {
+      "item": "veridia:crude_hammer"
+    },
+    "D": {
+      "item": "minecraft:copper_ingot"
+    },
+    "E": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "pattern": ["DAD", "CEB", "DAD"],
+  "result": {
+    "count": 1,
+    "id": "veridia:cooking_table"
+  }
+}

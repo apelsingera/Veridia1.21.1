@@ -1,0 +1,15 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "minecraft:lapis_lazuli" }, "count": 62  },
+  "gemstone": { "item": { "item": "veridia:aquatic_topaz" }, "count": 3 },
+  "primary": { "item": { "item": "veridia:strong_cloth" }, "count": 7 },
+  "secondary": {
+    "item": {
+      "type": "neoforge:components",
+      "items": "minecraft:potion",
+      "components": { "minecraft:potion_contents": { "potion": "minecraft:water_breathing" } },
+      "strict": false
+    }
+  },
+  "result": { "id": "veridia:aquatic_amulet", "count": 1 }
+}

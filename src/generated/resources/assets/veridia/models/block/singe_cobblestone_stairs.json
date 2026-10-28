@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "veridia:block/singe_cobblestone",
+    "side": "veridia:block/singe_cobblestone",
+    "top": "veridia:block/singe_cobblestone"
+  }
+}

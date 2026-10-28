@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "farmersdelight:rich_soil" },
+  "count": 12
+}

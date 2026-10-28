@@ -1,0 +1,17 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:sculk_shroom"},
+    { "item": "veridia:sculk_shroom" },
+    { "item": "veridia:exotic_seasoning3" },
+    { "item": "minecraft:spider_eye" },
+    { "item": "veridia:red_onion" },
+    { "item": "minecraft:pufferfish" },
+    { "item": "veridia:sculk_shroom" },
+    { "item": "veridia:sculk_shroom" }
+  ],
+  "result": {
+    "id": "veridia:suspicious_soup",
+    "count": 1
+  }
+}

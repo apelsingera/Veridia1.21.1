@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal",
+  "step": 20,
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:lapis_block"
+      },
+      "count": 9
+    },
+    {
+      "item": {
+        "item": "veridia:profundustone_chunk"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:chamotte_brick"
+      },
+      "count": 3
+    }
+  ],
+  "xp_levels": 10
+}

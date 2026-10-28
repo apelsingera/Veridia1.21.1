@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "spartan_weaponry_unofficial:pole"
+    },
+    "C": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "D": {
+      "item": "veridia:double_copper_ingot"
+    },
+    "E": {
+      "item": "veridia:plant_string"
+    }
+  },
+  "pattern": ["  A", "DBE", "CD "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:copper_lance"
+  }
+}

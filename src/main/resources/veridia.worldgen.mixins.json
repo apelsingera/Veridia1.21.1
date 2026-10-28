@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gera.veridia.common.worldgen.structure.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "JigsawStructureMixin",
+    "PoolElementStructurePieceMixin",
+    "StructureTemplatePoolMixin"
+  ],
+  "client": [],
+  "server": []
+}

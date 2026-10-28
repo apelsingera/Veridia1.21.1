@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "veridia:job_application"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "veridia:job_application"
+  }
+}

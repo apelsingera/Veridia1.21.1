@@ -2,7 +2,19 @@
   "replace": false,
   "values": [
     {
-      "id": "veridiafoods:sage_poi",
+      "id": "veridia:sage_poi",
+      "required": false
+    },
+    {
+      "id": "veridia:strop_poi",
+      "required": false
+    },
+    {
+      "id": "veridia:nailer_poi",
+      "required": false
+    },
+    {
+      "id": "veridia:lumberjack_poi",
       "required": false
     }
   ]

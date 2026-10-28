@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "veridia:unfinished_stuffed_pepper"
+  },
+  "result": {
+    "id": "veridia:stuffed_pepper"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

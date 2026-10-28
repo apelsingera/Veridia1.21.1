@@ -1,0 +1,13 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:garlic" },
+    { "item": "veridia:garlic" },
+    { "item": "veridia:goose_berry" },
+    { "item": "minecraft:gold_nugget" },
+    { "item": "minecraft:charcoal" },
+    { "item": "veridia:plant_clump" }
+  ],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridia:health_powder", "count": 1 }
+}

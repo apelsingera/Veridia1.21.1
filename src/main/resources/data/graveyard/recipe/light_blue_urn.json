@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "c:chests"
+    },
+    "T": {
+      "item": "minecraft:light_blue_glazed_terracotta"
+    }
+  },
+  "pattern": ["TTT", "TCT", "TTT"],
+  "result": {
+    "count": 1,
+    "id": "graveyard:light_blue_urn"
+  }
+}

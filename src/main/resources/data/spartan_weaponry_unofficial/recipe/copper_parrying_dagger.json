@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "spartan_weaponry_unofficial:copper_dagger"
+    },
+    "B": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "D": {
+      "item": "veridia:plant_string"
+    }
+  },
+  "pattern": ["DA", "BC"],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:copper_parrying_dagger"
+  }
+}

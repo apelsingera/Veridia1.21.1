@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "veridia:double_copper_ingot"
+    },
+    "C": {
+      "item": "veridia:plant_string"
+    },
+    "D": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": [" B ", "CA ", " D "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:copper_glaive"
+  }
+}

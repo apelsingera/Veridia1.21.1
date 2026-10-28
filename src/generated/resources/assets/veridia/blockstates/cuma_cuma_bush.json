@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "veridia:block/cuma_cuma_bush_stage0"
+    },
+    "age=1": {
+      "model": "veridia:block/cuma_cuma_bush_stage1"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "veridia:brain"
+  },
+  "upgrade": {
+    "item": "veridia:warrior_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "minecraft:water"
+    },
+    "amount": 8000
+  },
+  "result": {
+    "id": "veridia:neuron_clump",
+    "count": 4
+  },
+  "time": 6000
+}

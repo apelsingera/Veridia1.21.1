@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "veridia:tannin_bucket"
+    }
+  },
+  "pattern": ["AAA", "ABA", "AAA"],
+  "result": {
+    "count": 8,
+    "id": "veridia:tanned_leather"
+  }
+}

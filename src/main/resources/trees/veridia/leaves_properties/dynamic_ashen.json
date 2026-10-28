@@ -1,0 +1,10 @@
+{
+    "primitive_leaves": "veridia:ashen_leaves",
+    "smother": 3,
+    "cell_kit": "dynamictrees:conifer",
+    "flammability": 0,
+    "fire_spread": 0,
+    "texture_overrides": {
+        "leaves": "minecraft:block/spruce_leaves"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "veridia:beef_patty"
+  },
+  "result": {
+    "id": "veridia:cooked_beef_patty"
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}

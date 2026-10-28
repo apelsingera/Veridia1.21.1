@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "natural=false": {
+      "model": "veridia:block/raw_molybdenum_block"
+    },
+    "natural=true": {
+      "model": "veridia:block/raw_molybdenum_block"
+    }
+  }
+}

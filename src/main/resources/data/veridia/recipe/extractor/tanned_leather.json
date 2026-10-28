@@ -1,0 +1,20 @@
+{
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "minecraft:leather"
+  },
+  "upgrade": {
+    "item": "veridia:worker_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "veridia:tannin"
+    },
+    "amount": 250
+  },
+  "result": {
+    "id": "veridia:tanned_leather",
+    "count": 1
+  },
+  "time": 600
+}

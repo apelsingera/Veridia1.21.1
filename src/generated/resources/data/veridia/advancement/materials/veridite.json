@@ -1,0 +1,86 @@
+{
+  "parent": "veridia:materials/purpurite",
+  "criteria": {
+    "has_aquatic_topaz": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:aquatic_topaz"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_plasmafite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:plasmafite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_purpurite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:purpurite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_verdant_fluorite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:verdant_fluorite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_veridite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:veridite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.veridite.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "veridia:veridite"
+    },
+    "title": {
+      "translate": "advancement.veridia.veridite.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_purpurite"
+    ],
+    [
+      "has_aquatic_topaz"
+    ],
+    [
+      "has_verdant_fluorite"
+    ],
+    [
+      "has_plasmafite"
+    ],
+    [
+      "has_veridite"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

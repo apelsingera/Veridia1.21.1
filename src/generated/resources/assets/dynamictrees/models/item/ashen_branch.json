@@ -1,0 +1,7 @@
+{
+  "parent": "dynamictrees:item/branch",
+  "textures": {
+    "bark": "veridia:block/ashen_log",
+    "rings": "veridia:block/ashen_log_top"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "veridia:tanned_leather"
+    },
+    "B": {
+      "tag": "minecraft:arrows"
+    },
+    "C": {
+      "item": "veridia:strong_cloth"
+    },
+    "D": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": ["ADA", "CBC", "AAA"],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:small_arrow_quiver"
+  }
+}

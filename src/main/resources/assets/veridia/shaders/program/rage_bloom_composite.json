@@ -1,0 +1,14 @@
+{
+    "vertex": "veridia:rage_bloom",
+    "fragment": "veridia:rage_bloom_composite",
+    "attributes": [ "Position" ],
+    "samplers": [
+        { "name": "NearSampler" },
+        { "name": "FarSampler" }
+    ],
+    "uniforms": [
+        { "name": "OutSize",      "type": "float", "count": 2, "values": [ 1.0, 1.0 ] },
+        { "name": "NearStrength", "type": "float", "count": 1, "values": [ 1.0 ] },
+        { "name": "FarStrength",  "type": "float", "count": 1, "values": [ 1.0 ] }
+    ]
+}

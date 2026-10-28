@@ -1,0 +1,6 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [{ "item": "minecraft:prismarine_crystals" }],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridia:prismarine_crystal_powder", "count": 1 }
+}

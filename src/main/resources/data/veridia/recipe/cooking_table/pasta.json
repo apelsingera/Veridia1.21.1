@@ -1,0 +1,13 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:wheat_flour"},
+    { "item": "veridia:wheat_flour"},
+    { "item": "veridia:wheat_flour"},
+    { "item": "minecraft:egg" }
+  ],
+  "result": {
+    "id": "veridia:pasta",
+    "count": 1
+  }
+}

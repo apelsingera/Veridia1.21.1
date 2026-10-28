@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "veridia:block/spruce_scrap_wood",
+        "weight": 9
+      },
+      {
+        "model": "veridia:block/spruce_scrap_wood1"
+      }
+    ]
+  }
+}

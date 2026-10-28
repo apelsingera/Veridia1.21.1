@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "veridia:block/singe_stone_brick_tile_slab"
+    },
+    "type=double": {
+      "model": "veridia:block/singe_stone_brick_tiles"
+    },
+    "type=top": {
+      "model": "veridia:block/singe_stone_brick_tile_slab_top"
+    }
+  }
+}

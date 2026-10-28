@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:aquatic_topaz" }, "count": 2  },
+  "gemstone": { "item": { "item": "veridia:dangerous_verdant_fluorite" }, "count": 2 },
+  "primary": { "item": { "item": "veridia:scorching_plasmafite" }, "count": 2 },
+  "secondary": { "item": { "item": "veridia:purpurite" }, "count": 2 },
+  "result": { "id": "veridia:veridite", "count": 1 }
+}

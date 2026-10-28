@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "veridia:stripped_sculk_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "veridia:sculk_planks"
+  }
+}

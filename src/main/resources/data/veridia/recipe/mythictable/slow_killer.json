@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "minecraft:lapis_lazuli" }, "count": 5 },
+  "gemstone": { "item": { "item": "veridia:veridite" } },
+  "primary": { "item": { "item": "veridia:dangerous_verdant_fluorite" } },
+  "secondary": { "item": { "item": "veridia:strong_handle" }, "count": 2 },
+  "result": { "id": "veridia:slow_killer", "count": 1 }
+}

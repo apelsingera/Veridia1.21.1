@@ -1,0 +1,37 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "slow_killer_5",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:slow_killer_4"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:dangerous_verdant_fluorite"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "minecraft:wild_armor_trim_smithing_template"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "type": "neoforge:components",
+        "items": "minecraft:potion",
+        "components": {
+          "minecraft:potion_contents": {
+            "potion": "minecraft:harming"
+          }
+        }
+      },
+      "count": 1
+    }
+  ],
+  "result": "veridia:slow_killer_5"
+}

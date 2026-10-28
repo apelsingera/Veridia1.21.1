@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "veridia:mythical_table",
+  "lapis": {
+    "item": {
+      "item": "graveyard:dark_iron_block"
+    }
+  },
+  "gemstone": {
+    "item": {
+      "item": "veridia:strong_cloth"
+    },
+    "count": 7
+  },
+  "primary": {
+    "item": {
+      "item": "minecraft:paper"
+    },
+    "count": 35
+  },
+  "secondary": {
+    "item": {
+      "item": "minecraft:ink_sac"
+    },
+    "count": 5
+  },
+  "result": {
+    "id": "veridia:limited_nether_pass",
+    "count": 1
+  }
+}

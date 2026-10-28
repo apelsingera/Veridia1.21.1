@@ -1,0 +1,7 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:health_powder" }, "count": 3  },
+  "gemstone": { "item": { "item": "veridia:infested_brain" }, "count": 1 },
+  "primary": { "item": { "item": "veridia:super_sharp_knife" }, "count": 1, "durability": 125 },
+  "result": { "id": "veridia:brain", "count": 1 }
+}

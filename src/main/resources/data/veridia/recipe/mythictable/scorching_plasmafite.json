@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:plasmafite" }, "count": 1  },
+  "gemstone": { "item": { "item": "minecraft:netherite_scrap" }, "count": 1 },
+  "primary": { "item": { "item": "minecraft:fire_charge" }, "count": 5 },
+  "secondary": { "item": { "item": "minecraft:blaze_powder" }, "count": 4 },
+  "result": { "id": "veridia:scorching_plasmafite", "count": 1 }
+}

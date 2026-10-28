@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "veridia:aquatic_amulet",
+    "veridia:aquatic_amulet_2",
+    "veridia:aquatic_amulet_3",
+    "veridia:aquatic_amulet_4",
+    "veridia:aquatic_amulet_5",
+    "veridia:eye_of_sauron",
+    "veridia:eye_of_sauron_2",
+    "veridia:eye_of_sauron_3",
+    "veridia:eye_of_sauron_4",
+    "veridia:eye_of_sauron_5",
+    "veridia:slow_killer",
+    "veridia:slow_killer_2",
+    "veridia:slow_killer_3",
+    "veridia:slow_killer_4",
+    "veridia:slow_killer_5",
+    "veridia:knockback_ring",
+    "veridia:knockback_ring_2",
+    "veridia:knockback_ring_3",
+    "veridia:knockback_ring_4",
+    "veridia:knockback_ring_5",
+    "veridia:infernal_staff",
+    "veridia:infernal_staff_2",
+    "veridia:infernal_staff_3",
+    "veridia:infernal_staff_4",
+    "veridia:infernal_staff_5",
+    "veridia:blinding_prism"
+  ]
+}

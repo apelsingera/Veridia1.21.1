@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "slow_killer_2",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:slow_killer"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:verdant_fluorite"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "veridia:strong_handle"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "veridia:quartz_powder"
+      },
+      "count": 25
+    }
+  ],
+  "result": "veridia:slow_killer_2"
+}

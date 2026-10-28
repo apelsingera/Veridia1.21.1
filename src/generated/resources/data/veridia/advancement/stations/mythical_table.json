@@ -1,0 +1,34 @@
+{
+  "parent": "veridia:stations/cooking_table",
+  "criteria": {
+    "placed": {
+      "conditions": {
+        "location": [
+          {
+            "block": "veridia:mythical_table",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.mythical_table.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:mythical_table"
+    },
+    "title": {
+      "translate": "advancement.veridia.mythical_table.title"
+    }
+  },
+  "requirements": [
+    [
+      "placed"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

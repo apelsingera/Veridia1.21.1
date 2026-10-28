@@ -1,0 +1,6 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:prismarine_crystal_powder" }, "count": 2 },
+  "secondary": { "item": { "item": "veridia:raw_aquatic_topaz" }},
+  "result": { "id": "veridia:aquatic_topaz", "count": 1 }
+}

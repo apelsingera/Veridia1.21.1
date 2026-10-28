@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "spartan_weaponry_unofficial:iron_dagger"
+    },
+    "B": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": ["DA", "BC"],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:iron_parrying_dagger"
+  }
+}

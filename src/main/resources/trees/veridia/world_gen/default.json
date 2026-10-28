@@ -1,0 +1,14 @@
+[
+  {
+    "_comment": "Обожжённые ели Пепельного леса (в Пепельных равнинах деревьев нет): как ели в тайге, но реже и выше",
+    "select": {
+      "name": "veridia:ashen_forest"
+    },
+    "apply": {
+      "species": "veridia:ashen",
+      "density": "noise() * 0.6",
+      "chance": 1.0,
+      "forestness": 1.0
+    }
+  }
+]

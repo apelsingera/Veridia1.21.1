@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "spartan_weaponry_unofficial:diamond_dagger"
+    },
+    "B": {
+      "item": "veridia:strong_handle"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "D": {
+      "item": "veridia:strong_cloth"
+    }
+  },
+  "pattern": ["DA", "BC"],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:diamond_parrying_dagger"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "common_leaves": "veridia:dynamic_ashen",
+    "common_species": "veridia:ashen",
+    "primitive_log": "veridia:ashen_log",
+    "primitive_stripped_log": "veridia:stripped_ashen_log",
+    "max_branch_radius": 24
+}

@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "spartan_weaponry_unofficial:diamond_saber"
+    },
+    "B": {
+      "item": "veridia:double_diamond"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "D": {
+      "item": "veridia:strong_handle"
+    },
+    "E": {
+      "item": "veridia:strong_cloth"
+    }
+  },
+  "pattern": ["  A", "CBE", "DC "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:diamond_rapier"
+  }
+}

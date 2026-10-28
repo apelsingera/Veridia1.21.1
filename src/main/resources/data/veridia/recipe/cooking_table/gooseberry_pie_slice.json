@@ -1,0 +1,8 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:gooseberry_pie" }
+  ],
+  "tool_requirement": "knife",
+  "result": { "id": "veridia:gooseberry_pie_slice", "count": 4 }
+}

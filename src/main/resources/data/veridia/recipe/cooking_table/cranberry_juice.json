@@ -1,0 +1,11 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:cranberries" },
+    { "item": "veridia:cranberries" },
+    { "item": "veridia:cranberries" },
+    { "item": "minecraft:glass_bottle" }
+  ],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridia:cranberry_juice", "count": 1 }
+}

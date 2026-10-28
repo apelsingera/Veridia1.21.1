@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "slow_killer_3",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:slow_killer_2"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:verdant_fluorite"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "minecraft:turtle_scute"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:skeleton_skull"
+      },
+      "count": 1
+    }
+  ],
+  "result": "veridia:slow_killer_3"
+}

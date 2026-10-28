@@ -1,0 +1,13 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:cooked_horse_meat" },
+    { "item": "minecraft:cooked_beef" },
+    { "item": "veridia:cheese" },
+    { "item": "veridia:tasty_pasta" },
+    { "item": "minecraft:beetroot" },
+    { "item": "minecraft:beetroot" }
+  ],
+  "tool_requirement": "knife",
+  "result": { "id": "veridia:tasty_meat_mix", "count": 1 }
+}

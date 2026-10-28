@@ -1,9 +1,0 @@
-{
-  "type": "neoforge:add_features",
-  "biomes": [
-    "minecraft:forest",
-    "minecraft:plains"
-  ],
-  "features": "veridiafoods:sculk_tree_placed",
-  "step": "vegetal_decoration"
-}

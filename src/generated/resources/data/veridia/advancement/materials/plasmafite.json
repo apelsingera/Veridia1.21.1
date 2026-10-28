@@ -1,0 +1,33 @@
+{
+  "parent": "veridia:materials/root",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:plasmafite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.plasmafite.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:plasmafite"
+    },
+    "title": {
+      "translate": "advancement.veridia.plasmafite.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

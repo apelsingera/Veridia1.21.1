@@ -1,0 +1,7 @@
+{
+  "parent": "veridia:block/food_storage",
+  "textures": {
+    "2": "veridia:block/food_storage_texture_open",
+    "particle": "veridia:block/food_storage_texture_open"
+  }
+}

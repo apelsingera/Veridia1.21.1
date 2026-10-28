@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "minecraft:diamond_block"
+    },
+    "C": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "D": {
+      "item": "veridia:strong_cloth"
+    },
+    "E": {
+      "item": "veridia:strong_handle"
+    }
+  },
+  "pattern": ["ABA", "ACA", "DE "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:diamond_battleaxe"
+  }
+}

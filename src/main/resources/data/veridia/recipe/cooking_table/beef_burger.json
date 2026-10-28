@@ -1,0 +1,17 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:cooked_beef_patty"},
+    { "item": "veridia:tomato_cherry" },
+    { "item": "veridia:tomato_cherry" },
+    { "item": "veridia:cheese" },
+    { "item": "veridia:red_onion" },
+    { "item": "veridia:exotic_seasoning1" },
+    { "item": "minecraft:bread" },
+    { "item": "minecraft:bread" }
+  ],
+  "result": {
+    "id": "veridia:beef_burger",
+    "count": 1
+  }
+}

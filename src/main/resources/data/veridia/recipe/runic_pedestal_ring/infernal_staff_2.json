@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "infernal_staff_2",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:infernal_staff"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:bloodstone"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "veridia:nether_string"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "veridia:chamotte_brick"
+      },
+      "count": 8
+    }
+  ],
+  "result": "veridia:infernal_staff_2"
+}

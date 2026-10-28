@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "veridia:bloodstone" },
+  "count": 2
+}

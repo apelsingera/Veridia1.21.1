@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "veridia:block/mossy_singe_stone_bricks",
+    "side": "veridia:block/mossy_singe_stone_bricks",
+    "top": "veridia:block/mossy_singe_stone_bricks"
+  }
+}

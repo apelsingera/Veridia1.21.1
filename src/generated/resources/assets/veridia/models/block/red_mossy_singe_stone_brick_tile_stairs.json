@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "veridia:block/red_mossy_singe_stone_brick_tiles",
+    "side": "veridia:block/red_mossy_singe_stone_brick_tiles",
+    "top": "veridia:block/red_mossy_singe_stone_brick_tiles"
+  }
+}

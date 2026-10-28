@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "veridia:bucket_with_egg"
+  },
+  "result": {
+    "id": "veridia:boiled_egg_bucket"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

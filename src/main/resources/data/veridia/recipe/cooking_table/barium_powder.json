@@ -1,0 +1,6 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [{ "item": "veridia:barium_ingot" }],
+  "tool_requirement": "hammer",
+  "result": { "id": "veridia:barium_powder", "count": 1 }
+}

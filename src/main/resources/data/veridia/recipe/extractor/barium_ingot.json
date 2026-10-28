@@ -1,0 +1,20 @@
+{
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "veridia:raw_barium"
+  },
+  "upgrade": {
+    "item": "veridia:alchemist_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "veridia:corruption"
+    },
+    "amount": 500
+  },
+  "result": {
+    "id": "veridia:barium_ingot",
+    "count": 1
+  },
+  "time": 1000
+}

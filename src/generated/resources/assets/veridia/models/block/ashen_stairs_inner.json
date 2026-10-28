@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "veridia:block/ashen_planks",
+    "side": "veridia:block/ashen_planks",
+    "top": "veridia:block/ashen_planks"
+  }
+}

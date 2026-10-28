@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "minecraft:andesite" }, "count": 15},
+  "gemstone": { "item": { "item": "graveyard:dark_iron_ingot" }, "count": 6 },
+  "primary": { "item": { "item": "veridia:profundustone_chunk" }, "count": 3 },
+  "secondary": { "item": { "item": "minecraft:quartz" }, "count": 6 },
+  "result": { "id": "veridia:warrior_upgrade", "count": 1 }
+}

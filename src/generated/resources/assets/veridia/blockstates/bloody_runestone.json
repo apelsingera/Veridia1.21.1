@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "half=lower,rotation=0": {
+      "model": "veridia:block/bloody_runestone"
+    },
+    "half=lower,rotation=1": {
+      "model": "veridia:block/bloody_runestone_diagonal"
+    },
+    "half=lower,rotation=2": {
+      "model": "veridia:block/bloody_runestone",
+      "y": 90
+    },
+    "half=lower,rotation=3": {
+      "model": "veridia:block/bloody_runestone_diagonal",
+      "y": 90
+    },
+    "half=lower,rotation=4": {
+      "model": "veridia:block/bloody_runestone",
+      "y": 180
+    },
+    "half=lower,rotation=5": {
+      "model": "veridia:block/bloody_runestone_diagonal",
+      "y": 180
+    },
+    "half=lower,rotation=6": {
+      "model": "veridia:block/bloody_runestone",
+      "y": 270
+    },
+    "half=lower,rotation=7": {
+      "model": "veridia:block/bloody_runestone_diagonal",
+      "y": 270
+    },
+    "half=upper,rotation=0": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=1": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=2": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=3": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=4": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=5": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=6": {
+      "model": "veridia:block/bloody_runestone_upper"
+    },
+    "half=upper,rotation=7": {
+      "model": "veridia:block/bloody_runestone_upper"
+    }
+  }
+}

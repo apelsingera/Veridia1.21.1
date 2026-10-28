@@ -1,0 +1,11 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:cranberry_juice"},
+    { "item": "minecraft:sugar" }
+  ],
+  "result": {
+    "id": "veridia:cranberry_juice_speed",
+    "count": 1
+  }
+}

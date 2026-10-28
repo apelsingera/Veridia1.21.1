@@ -1,0 +1,6 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:prismarine_crystal_powder" }, "count": 2  },
+  "secondary": { "item": { "item": "veridia:raw_verdant_fluorite" }},
+  "result": { "id": "veridia:verdant_fluorite", "count": 1 }
+}

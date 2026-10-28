@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "veridia:block/singe_stone_slab"
+    },
+    "type=double": {
+      "model": "veridia:block/singe_stone"
+    },
+    "type=top": {
+      "model": "veridia:block/singe_stone_slab_top"
+    }
+  }
+}

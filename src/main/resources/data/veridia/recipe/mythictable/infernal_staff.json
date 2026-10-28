@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:nether_string" }, "count": 8  },
+  "gemstone": { "item": { "item": "veridia:blinding_prism" }, "count": 1 },
+  "primary": { "item": { "item": "veridia:bloodstone" }, "count": 1 },
+  "secondary": { "item": { "item": "veridia:chamotte_brick" }, "count": 12  },
+  "result": { "id": "veridia:infernal_staff", "count": 1 }
+}

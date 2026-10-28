@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "veridiafoods:ground_beef",
-    "veridiafoods:ground_pork"
+    "veridia:ground_beef",
+    "veridia:ground_pork"
   ]
 }

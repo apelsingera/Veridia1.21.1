@@ -1,0 +1,14 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:red_onion" },
+    { "item": "veridia:exotic_seasoning2" },
+    { "item": "veridia:cranberries" },
+    { "item": "veridia:potato_puree" },
+    { "item": "veridia:cooked_beef_patty" }
+  ],
+  "tool_requirement": "knife",
+  "result": {
+    "id": "veridia:beef_with_mashed_potatoes", "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ashen_wood": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#veridia:ashen_logs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "veridia:stripped_charred_wood_from_smelting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ashen_wood"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "veridia:stripped_charred_wood_from_smelting"
+    ]
+  }
+}

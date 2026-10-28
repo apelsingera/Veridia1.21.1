@@ -1,0 +1,15 @@
+{
+  "type": "veridia:replace_loot_in_biomes",
+  "biomes": [
+    "veridia:ashen_plains",
+    "veridia:ashen_forest",
+    "veridia:ashen_river"
+  ],
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:gameplay/fishing"
+    }
+  ],
+  "loot_table": "veridia:gameplay/fishing/ash"
+}

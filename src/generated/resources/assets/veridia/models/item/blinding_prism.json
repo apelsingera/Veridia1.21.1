@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "veridia:item/blinding_prism_cooldown",
+      "predicate": {
+        "minecraft:cooldown": 0.001
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "veridia:item/blinding_prism"
+  }
+}

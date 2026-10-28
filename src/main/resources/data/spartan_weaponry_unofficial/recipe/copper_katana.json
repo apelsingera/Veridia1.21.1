@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "C": {
+      "item": "veridia:plant_string"
+    }
+  },
+  "pattern": ["  A", "CA ", "B  "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:copper_katana"
+  }
+}

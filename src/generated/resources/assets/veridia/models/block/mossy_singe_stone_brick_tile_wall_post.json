@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "veridia:block/mossy_singe_stone_brick_tiles"
+  }
+}

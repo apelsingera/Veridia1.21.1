@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "minecraft:bone_meal" },
+  "count": 24
+}

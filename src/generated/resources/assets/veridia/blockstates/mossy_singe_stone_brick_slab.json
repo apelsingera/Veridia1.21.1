@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "veridia:block/mossy_singe_stone_brick_slab"
+    },
+    "type=double": {
+      "model": "veridia:block/mossy_singe_stone_bricks"
+    },
+    "type=top": {
+      "model": "veridia:block/mossy_singe_stone_brick_slab_top"
+    }
+  }
+}

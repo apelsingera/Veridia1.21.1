@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "veridia:block/singe_stone_bricks"
+  }
+}

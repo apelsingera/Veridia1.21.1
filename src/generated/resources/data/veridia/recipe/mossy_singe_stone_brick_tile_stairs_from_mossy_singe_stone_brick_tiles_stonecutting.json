@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "veridia:mossy_singe_stone_brick_tiles"
+  },
+  "result": {
+    "count": 1,
+    "id": "veridia:mossy_singe_stone_brick_tile_stairs"
+  }
+}

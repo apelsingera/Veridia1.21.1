@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "eye_of_sauron_5",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:eye_of_sauron_4"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:scorching_plasmafite"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "minecraft:netherite_ingot"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "veridia:profundustone_chunk"
+      },
+      "count": 7
+    }
+  ],
+  "result": "veridia:eye_of_sauron_5"
+}

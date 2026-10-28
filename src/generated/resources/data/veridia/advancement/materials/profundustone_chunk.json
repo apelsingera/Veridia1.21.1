@@ -1,0 +1,33 @@
+{
+  "parent": "veridia:materials/root",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:profundustone_chunk"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.profundustone_chunk.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:profundustone_chunk"
+    },
+    "title": {
+      "translate": "advancement.veridia.profundustone_chunk.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,39 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": {
+    "item": { "item": "minecraft:lapis_lazuli" },
+    "count": 64
+  },
+  "gemstone": {
+    "item": { "item": "veridia:veridite" },
+    "count": 2
+  },
+  "primary": {
+    "item": {
+      "type": "neoforge:components",
+      "items": "minecraft:enchanted_book",
+      "components": {
+        "minecraft:stored_enchantments": {
+          "levels": {
+            "minecraft:efficiency": 5
+          }
+        }
+      },
+      "strict": false
+    }
+  },
+  "secondary": {
+    "item": { "item": "veridia:aquatic_topaz" }, "count": 8
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "count": 1,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:efficiency": 6
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "aquatic_amulet_5",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:aquatic_amulet_4"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:tide_armor_trim_smithing_template"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:aquatic_topaz"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:heart_of_the_sea"
+      },
+      "count": 1
+    }
+  ],
+  "result": "veridia:aquatic_amulet_5"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "veridia:sculk_log"
+    }
+  },
+  "pattern": ["AA", "AA"],
+  "result": {
+    "count": 3,
+    "id": "veridia:sculk_wood"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "upgrade": {
+    "item": "veridia:alchemist_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "veridia:corruption"
+    },
+    "amount": 500
+  },
+  "result": {
+    "id": "graveyard:dark_iron_ingot",
+    "count": 1
+  },
+  "time": 1000
+}

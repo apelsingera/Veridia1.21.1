@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "veridiafoods:block/stripped_sculk_log_top",
-    "side": "veridiafoods:block/stripped_sculk_log"
-  }
-}

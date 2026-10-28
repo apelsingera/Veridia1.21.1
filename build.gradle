@@ -36,6 +36,28 @@ sourceSets.main.resources {
             name = "ModMaven"
             url = "https://modmaven.dev"
         }
+        maven {
+            name = "Curios"
+            url = uri("https://theillusivec4.top")
+        }
+        maven {
+            // TerraBlender (biome placement in vanilla dimensions)
+            name = "TerraBlender"
+            url = "https://maven.minecraftforge.net/"
+            content { includeGroup "com.github.glitchfiend" }
+        }
+        exclusiveContent {
+            forRepository {
+                maven {
+                    // Farmer's Delight doesn't publish to its own maven; consumed via Modrinth's maven API.
+                    name = "Modrinth"
+                    url = "https://api.modrinth.com/maven"
+                }
+            }
+            filter {
+                includeGroup "maven.modrinth"
+            }
+        }
     }
 
 base {
@@ -88,7 +110,7 @@ neoForge {
             // gameDirectory = project.file('run-data')
 
             // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
-            programArguments.addAll '--mod', project.mod_id, '--all', '--output', file('src/generated/resources/').getAbsolutePath(), '--existing', file('src/main/resources/').getAbsolutePath()
+            programArguments.addAll '--mod', project.mod_id, '--all', '--output', file('src/generated/resources/').getAbsolutePath(), '--existing', file('src/main/resources/').getAbsolutePath(), '--existing-mod', 'dynamictrees'
         }
 
         // applies to all the run configs above
@@ -128,10 +150,33 @@ configurations {
         dependencies {
             /* other minecraft dependencies are here */
 
-            // compile against the JEI API but do not include it at runtime
             compileOnly("mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}")
-            // at runtime, use the full JEI jar for NeoForge
             runtimeOnly("mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}")
+            runtimeOnly "top.theillusivec4.curios:curios-neoforge:${curios_version}"
+
+            compileOnly "top.theillusivec4.curios:curios-neoforge:${curios_version}:api"
+
+            // Farmer's Delight ships as a single jar (no split api artifact).
+            compileOnly "maven.modrinth:farmers-delight:${farmers_delight_version}"
+            runtimeOnly "maven.modrinth:farmers-delight:${farmers_delight_version}"
+
+            // Dynamic Trees - needed to call its real felling API (BranchBlock#futureBreak),
+            // not just to detect its blocks (that part works off tags alone, no dependency needed).
+            compileOnly "maven.modrinth:dynamictrees:${dynamic_trees_version}"
+            runtimeOnly "maven.modrinth:dynamictrees:${dynamic_trees_version}"
+
+            // Spartan Weaponry (unofficial) - hard dependency so level-zombie/lumberjack gear
+            // references its real ModItems fields instead of hand-typed ResourceLocation strings.
+            compileOnly "maven.modrinth:spartan-weaponry-unofficial:${spartan_weaponry_version}"
+            runtimeOnly "maven.modrinth:spartan-weaponry-unofficial:${spartan_weaponry_version}"
+
+            // The Graveyard Resurrected - only so the IDE can resolve the targets of the string mixins in
+            // compat/graveyard (they are applied by class name at runtime and need nothing at build time).
+            // Takes whatever graveyard-*.jar lies in run/mods; no jar there - nothing is added, build is unaffected.
+            compileOnly fileTree(dir: "run/mods", include: "graveyard-*.jar")
+
+            // TerraBlender - places the Veridia nether biome next to vanilla ones; hard dependency.
+            implementation "com.github.glitchfiend:TerraBlender-neoforge:${terrablender_version}"
         }
 
 // This block of code expands all declared replace properties in the specified resource targets.

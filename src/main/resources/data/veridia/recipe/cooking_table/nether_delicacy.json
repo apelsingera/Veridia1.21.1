@@ -1,0 +1,17 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:wither_bone"},
+    { "item": "minecraft:wither_rose" },
+    { "item": "veridia:exotic_seasoning2" },
+    { "item": "minecraft:blaze_powder" },
+    { "item": "veridia:infested_brain" },
+    { "item": "veridia:sculk_shroom" },
+    { "item": "veridia:sculk_shroom" },
+    { "item": "minecraft:crimson_fungus"}
+  ],
+  "result": {
+    "id": "veridia:nether_delicacy",
+    "count": 1
+  }
+}

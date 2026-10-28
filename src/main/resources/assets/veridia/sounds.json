@@ -1,0 +1,33 @@
+{
+  "omen_reprise": {
+    "sounds": [
+      {
+        "name": "veridia:omen_reprise",
+        "stream": true
+      }
+    ]
+  },
+  "runic_pedestal_sfx1": {
+    "sounds": [
+      "veridia:runic_pedestal_sfx1"
+    ]
+  },
+  "runic_pedestal_sfx2": {
+    "sounds": [
+      "veridia:runic_pedestal_sfx2"
+    ]
+  },
+  "runic_pedestal_sfx3": {
+    "sounds": [
+      "veridia:runic_pedestal_sfx3"
+    ]
+  },
+  "the_big_gundown": {
+    "sounds": [
+      {
+        "name": "veridia:the_big_gundown",
+        "stream": true
+      }
+    ]
+  }
+}

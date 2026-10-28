@@ -1,0 +1,11 @@
+{
+  "type": "veridia:replace_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:entities/wither_skeleton"
+    }
+  ],
+  "from": "minecraft:bone",
+  "to": "veridia:wither_bone"
+}

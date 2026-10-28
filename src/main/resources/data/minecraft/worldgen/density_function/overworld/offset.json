@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:add",
+  "argument1": {
+    "type": "minecraft:add",
+    "argument1": "veridia:ash/offset_vanilla",
+    "argument2": {
+      "type": "minecraft:mul",
+      "argument1": "veridia:ash/flatness",
+      "argument2": {
+        "type": "minecraft:add",
+        "argument1": "veridia:ash/offset_flat",
+        "argument2": {
+          "type": "minecraft:mul",
+          "argument1": -1.0,
+          "argument2": "veridia:ash/offset_vanilla"
+        }
+      }
+    }
+  },
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": "veridia:ash/flatness",
+    "argument2": "veridia:ash/roll"
+  }
+}

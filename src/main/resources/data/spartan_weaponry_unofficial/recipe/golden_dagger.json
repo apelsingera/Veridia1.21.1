@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "tag": "spartan_weaponry_unofficial:handles"
+    },
+    "C": {
+      "item": "veridia:double_gold_ingot"
+    }
+  },
+  "pattern": ["AC", "BA"],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:golden_dagger"
+  }
+}

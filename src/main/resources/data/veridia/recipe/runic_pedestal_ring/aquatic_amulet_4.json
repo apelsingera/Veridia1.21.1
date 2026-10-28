@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "aquatic_amulet_4",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:aquatic_amulet_3"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:aquatic_topaz"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "veridia:nautilus_gland"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "minecraft:prismarine_shard"
+      },
+      "count": 7
+    }
+  ],
+  "result": "veridia:aquatic_amulet_4"
+}

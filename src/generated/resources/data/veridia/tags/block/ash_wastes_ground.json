@@ -1,0 +1,14 @@
+{
+  "values": [
+    "#minecraft:sand",
+    "#minecraft:dirt",
+    "#minecraft:terracotta",
+    "#minecraft:base_stone_overworld",
+    "minecraft:sandstone",
+    "minecraft:red_sandstone",
+    "minecraft:gravel",
+    "minecraft:blackstone",
+    "minecraft:smooth_basalt",
+    "veridia:blackstone_magma"
+  ]
+}

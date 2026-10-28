@@ -1,0 +1,32 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:cobblestones"
+    },
+    "B": {
+      "item": "minecraft:stone"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    },
+    "D": {
+      "item": "veridia:plant_string"
+    },
+    "E": {
+      "item": "spartan_weaponry_unofficial:handle"
+    }
+  },
+  "pattern": ["ABA", "ACA", "DE "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:stone_battleaxe"
+  }
+}

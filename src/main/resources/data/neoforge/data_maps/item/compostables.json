@@ -1,0 +1,28 @@
+{
+  "values": {
+    "veridia:garlic_seeds": {
+      "chance": 0.25
+    },
+    "veridia:garlic": {
+      "chance": 0.4
+    },
+    "veridia:bell_pepper_seeds": {
+      "chance": 0.2
+    },
+    "veridia:red_bell_pepper": {
+      "chance": 0.4
+    },
+    "veridia:blue_berry": {
+      "chance": 0.4
+    },
+    "veridia:goose_berry": {
+      "chance": 0.4
+    },
+    "veridia:cranberries": {
+      "chance": 0.4
+    },
+    "veridia:dandelion_root": {
+      "chance": 0.2
+    }
+  }
+}

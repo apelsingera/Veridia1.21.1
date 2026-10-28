@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0,half=lower": {
+      "model": "veridia:block/hemp_crop_0"
+    },
+    "age=0,half=upper": {
+      "model": "veridia:block/hemp_crop_0"
+    },
+    "age=1,half=lower": {
+      "model": "veridia:block/hemp_crop_1"
+    },
+    "age=1,half=upper": {
+      "model": "veridia:block/hemp_crop_1"
+    },
+    "age=2,half=lower": {
+      "model": "veridia:block/hemp_crop_2"
+    },
+    "age=2,half=upper": {
+      "model": "veridia:block/hemp_crop_2"
+    },
+    "age=3,half=lower": {
+      "model": "veridia:block/hemp_crop_3"
+    },
+    "age=3,half=upper": {
+      "model": "veridia:block/hemp_crop_3"
+    },
+    "age=4,half=lower": {
+      "model": "veridia:block/hemp_crop_4"
+    },
+    "age=4,half=upper": {
+      "model": "veridia:block/hemp_crop_4"
+    },
+    "age=5,half=lower": {
+      "model": "veridia:block/hemp_crop_5_bottom"
+    },
+    "age=5,half=upper": {
+      "model": "veridia:block/hemp_crop_5_top"
+    },
+    "age=6,half=lower": {
+      "model": "veridia:block/hemp_crop_6_bottom"
+    },
+    "age=6,half=upper": {
+      "model": "veridia:block/hemp_crop_6_top"
+    },
+    "age=7,half=lower": {
+      "model": "veridia:block/hemp_crop_7_bottom"
+    },
+    "age=7,half=upper": {
+      "model": "veridia:block/hemp_crop_7_top"
+    }
+  }
+}

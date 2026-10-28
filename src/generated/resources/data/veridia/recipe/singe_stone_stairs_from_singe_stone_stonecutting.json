@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "veridia:singe_stone"
+  },
+  "result": {
+    "count": 1,
+    "id": "veridia:singe_stone_stairs"
+  }
+}

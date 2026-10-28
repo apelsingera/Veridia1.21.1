@@ -1,0 +1,19 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "ingredient": {
+    "item": "veridia:plant_clump"
+  },
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:straw"
+  },
+  "experience": 0.35,
+  "cookingtime": 400
+}

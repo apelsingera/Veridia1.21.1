@@ -1,0 +1,8 @@
+{
+  "type": "veridia:magma_patch",
+  "config": {
+    "lava_radius_fraction": 0.45,
+    "max_radius": 10,
+    "min_radius": 4
+  }
+}

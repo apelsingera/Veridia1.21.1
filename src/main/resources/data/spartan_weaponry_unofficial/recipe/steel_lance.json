@@ -1,0 +1,39 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/steel"
+      }
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "item": "spartan_weaponry_unofficial:pole"
+    },
+    "C": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "D": {
+      "tag": "c:plates/steel"
+    },
+    "E": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": ["  A", "DBE", "CD "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:steel_lance"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "input_predicate": { "predicate_type": "minecraft:random_block_match",
+            "block": "veridia:singe_stone_bricks", "probability": 0.25 },
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "output_state": { "Name": "veridia:mossy_singe_stone_bricks" }
+        },
+        {
+          "input_predicate": { "predicate_type": "minecraft:random_block_match",
+            "block": "veridia:singe_stone_bricks", "probability": 0.15 },
+          "location_predicate": { "predicate_type": "minecraft:always_true" },
+          "output_state": { "Name": "veridia:cracked_singe_stone_bricks" }
+        }
+      ]
+    }
+  ]
+}

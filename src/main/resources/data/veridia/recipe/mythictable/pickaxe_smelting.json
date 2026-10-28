@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "minecraft:iron_ingot" }, "count": 4 },
+  "gemstone": { "item": { "item": "minecraft:stick" }, "count": 2 },
+  "primary": { "item": { "item": "veridia:tanned_leather" }, "count": 1 },
+  "secondary": { "item": { "item": "veridia:barium_ingot" }, "count": 1 },
+  "result": { "id": "veridia:smelting_pickaxe", "count": 1 }
+}

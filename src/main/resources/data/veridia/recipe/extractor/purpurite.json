@@ -1,0 +1,20 @@
+{
+  "type": "veridia:extracting",
+  "ingredient": {
+    "item": "veridia:raw_purpurite"
+  },
+  "upgrade": {
+    "item": "veridia:alchemist_upgrade"
+  },
+  "fluid": {
+    "ingredient": {
+      "fluid": "minecraft:lava"
+    },
+    "amount": 750
+  },
+  "result": {
+    "id": "veridia:purpurite",
+    "count": 2
+  },
+  "time": 1000
+}

@@ -1,0 +1,17 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "veridia:extractor_melting",
+  "input": {
+    "item": "graveyard:corruption"
+  },
+  "result": {
+    "id": "veridia:corruption",
+    "amount": 250
+  },
+  "time": 200
+}

@@ -1,0 +1,36 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "spartan_weaponry_unofficial"
+    },
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/steel"
+      }
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "tag": "c:ingots/steel"
+    },
+    "B": {
+      "tag": "c:storage_blocks/steel"
+    },
+    "C": {
+      "item": "spartan_weaponry_unofficial:handle"
+    },
+    "D": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [" A ", "AB ", "DC "],
+  "result": {
+    "count": 1,
+    "id": "spartan_weaponry_unofficial:steel_warhammer"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "veridia:runic_pedestal",
+  "step": 5,
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:lapis_block"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "graveyard:corruption"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "veridia:quadruple_iron_ingot"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "minecraft:redstone"
+      },
+      "count": 51
+    }
+  ],
+  "xp_levels": 6
+}

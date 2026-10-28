@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:forest",
+  "features": "veridia:blue_berry_placed_key",
+  "step": "vegetal_decoration"
+}

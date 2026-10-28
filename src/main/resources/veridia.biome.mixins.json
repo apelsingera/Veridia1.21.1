@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.gera.veridia.common.worldgen.biome.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MultiNoiseBiomeSourceMixin",
+    "VineBlockAshMixin"
+  ],
+  "client": [],
+  "server": []
+}

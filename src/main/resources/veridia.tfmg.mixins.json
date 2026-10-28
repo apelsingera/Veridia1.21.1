@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "net.gera.veridia.common.compat.tfmg.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DistillationControllerBlockEntityMixin",
+    "SteelTankBlockEntityMixin"
+  ],
+  "client": [],
+  "server": []
+}

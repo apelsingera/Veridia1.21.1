@@ -1,0 +1,33 @@
+{
+  "parent": "veridia:materials/root",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:raw_verdant_fluorite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.raw_verdant_fluorite.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:raw_verdant_fluorite"
+    },
+    "title": {
+      "translate": "advancement.veridia.raw_verdant_fluorite.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:dangerous_verdant_fluorite" }, "count": 4  },
+  "gemstone": { "item": { "item": "veridia:purpurite" }, "count": 1 },
+  "primary": { "item": { "item": "veridia:aquatic_topaz" }, "count": 4 },
+  "secondary": { "item": { "item": "minecraft:nether_star" }, "count": 3 },
+  "result": { "id": "veridia:blinding_prism", "count": 1 }
+}

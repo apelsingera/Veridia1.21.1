@@ -1,0 +1,33 @@
+{
+  "parent": "veridia:materials/plasmafite",
+  "criteria": {
+    "has_item": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:scorching_plasmafite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.veridia.scorching_plasmafite.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "veridia:scorching_plasmafite"
+    },
+    "title": {
+      "translate": "advancement.veridia.scorching_plasmafite.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

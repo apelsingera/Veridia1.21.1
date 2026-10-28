@@ -1,6 +1,0 @@
-{
-  "type": "veridiafoods:cooking_table",
-  "ingredients": [{ "item": "veridiafoods:red_bell_pepper" }],
-  "tool_requirement": "knife",
-  "result": { "id": "veridiafoods:red_bell_pepper_slice", "count": 3 }
-}

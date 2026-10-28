@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_net": {
+      "conditions": {
+        "items": [
+          {
+            "items": "veridia:fiber_net"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "veridia:heavy_projectile"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_net"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "veridia:heavy_projectile"
+    ]
+  }
+}

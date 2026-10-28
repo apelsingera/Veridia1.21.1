@@ -1,0 +1,31 @@
+{
+  "type": "veridia:runic_pedestal_ring",
+  "required_knowledge": "knockback_ring_2",
+  "materials": [
+    {
+      "item": {
+        "item": "veridia:knockback_ring"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "veridia:purpurite"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:gold_ingot"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "count": 52
+    }
+  ],
+  "result": "veridia:knockback_ring_2"
+}

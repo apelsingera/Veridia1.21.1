@@ -1,0 +1,29 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "graveyard"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:clay"
+    },
+    "B": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "C": {
+      "item": "minecraft:lava_bucket"
+    },
+    "D": {
+      "item": "graveyard:corruption"
+    }
+  },
+  "pattern": ["AA ", "ACB", " BD"],
+  "result": {
+    "count": 1,
+    "id": "veridia:chamotte_brick"
+  }
+}

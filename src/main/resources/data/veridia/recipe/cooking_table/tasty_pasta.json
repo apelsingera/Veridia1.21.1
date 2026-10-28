@@ -1,0 +1,14 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:bowl" },
+    { "item": "minecraft:bowl" },
+    { "item": "veridia:cooked_pasta_bucket" }
+  ],
+  "result":
+  {
+    "id": "veridia:tasty_pasta", "count": 4
+  }
+}

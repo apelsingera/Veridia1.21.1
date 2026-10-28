@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:nether_string" }, "count": 6 },
+  "gemstone": { "item": { "item": "minecraft:red_wool" }, "count": 24 },
+  "primary": { "item": { "item": "minecraft:redstone" }, "count": 48 },
+  "secondary": { "item": { "item": "veridia:strong_cloth" }, "count": 18 },
+  "result": { "id": "veridia:newbie_mantle_chestplate", "count": 1 }
+}

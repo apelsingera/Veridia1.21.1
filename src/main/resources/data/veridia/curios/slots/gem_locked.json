@@ -1,0 +1,6 @@
+{
+  "size": 1,
+  "icon": "curios:slot/locked_gem",
+  "order": 20,
+  "validators": ["curios:none"]
+}

@@ -1,0 +1,5 @@
+{
+  "type": "veridia:villager_upgrade",
+  "ingredient": { "item": "minecraft:golden_apple" },
+  "count": 1
+}

@@ -1,0 +1,16 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:tomato_cherry" },
+    { "item": "veridia:tomato_cherry" },
+    { "item": "veridia:exotic_seasoning1" },
+    { "item": "veridia:garlic" },
+    { "item": "minecraft:cooked_chicken" },
+    { "item": "minecraft:cooked_chicken" }
+  ],
+  "tool_requirement": "knife",
+  "result": {
+    "id": "veridia:chicken_legs",
+    "count": 1
+  }
+}

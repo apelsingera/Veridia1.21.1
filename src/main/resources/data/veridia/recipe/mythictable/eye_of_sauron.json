@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:scorching_plasmafite" }, "count": 2},
+  "gemstone": { "item": { "item": "veridia:strong_cloth" }, "count": 5 },
+  "primary": { "item": { "item": "minecraft:magma_block" }, "count": 15 },
+  "secondary": { "item": { "item": "minecraft:blaze_powder" }, "count": 8 },
+  "result": { "id": "veridia:eye_of_sauron", "count": 1 }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "veridia:cooking_table",
+  "ingredients": [
+    { "item": "veridia:ground_pork"},
+    { "item": "minecraft:bread" }
+  ],
+  "result": {
+    "id": "veridia:pork_patty",
+    "count": 1
+  }
+}

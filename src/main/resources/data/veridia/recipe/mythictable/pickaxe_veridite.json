@@ -1,0 +1,8 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": { "item": { "item": "veridia:veridite" }, "count": 3 },
+  "gemstone": { "item": { "item": "veridia:strong_handle" }, "count": 2 },
+  "primary": { "item": { "item": "veridia:tanned_leather" }, "count": 5 },
+  "secondary": { "item": { "item": "veridia:barium_ingot" }, "count": 5 },
+  "result": { "id": "veridia:veridite_pickaxe", "count": 1 }
+}

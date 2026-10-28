@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "veridia:block/ashen_scrap_wood",
+        "weight": 9
+      },
+      {
+        "model": "veridia:block/ashen_scrap_wood1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "veridia:block/ashen_cabinet_front",
+    "side": "veridia:block/ashen_cabinet_side",
+    "top": "veridia:block/ashen_cabinet_top"
+  }
+}

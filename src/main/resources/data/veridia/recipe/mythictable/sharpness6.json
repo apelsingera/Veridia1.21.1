@@ -1,0 +1,39 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": {
+    "item": { "item": "minecraft:lapis_lazuli" },
+    "count": 34
+  },
+  "gemstone": {
+    "item": { "item": "minecraft:quartz" },
+    "count": 16
+  },
+  "primary": {
+    "item": {
+      "type": "neoforge:components",
+      "items": "minecraft:enchanted_book",
+      "components": {
+        "minecraft:stored_enchantments": {
+          "levels": {
+            "minecraft:sharpness": 5
+          }
+        }
+      },
+      "strict": false
+    }
+  },
+  "secondary": {
+    "item": { "item": "veridia:purpurite" }, "count": 2
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "count": 1,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:sharpness": 6
+        }
+      }
+    }
+  }
+}

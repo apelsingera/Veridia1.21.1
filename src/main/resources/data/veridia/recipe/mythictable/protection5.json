@@ -1,0 +1,38 @@
+{
+  "type": "veridia:mythical_table",
+  "lapis": {
+    "item": { "item": "minecraft:lapis_lazuli" },
+    "count": 34
+  },
+  "gemstone": {
+    "item": { "item": "minecraft:netherite_ingot" }
+  },
+  "primary": {
+    "item": {
+      "type": "neoforge:components",
+      "items": "minecraft:enchanted_book",
+      "components": {
+        "minecraft:stored_enchantments": {
+          "levels": {
+            "minecraft:protection": 4
+          }
+        }
+      },
+      "strict": false
+    }
+  },
+  "secondary": {
+    "item": { "item": "veridia:verdant_fluorite" }, "count": 2
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "count": 1,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:protection": 5
+        }
+      }
+    }
+  }
+}

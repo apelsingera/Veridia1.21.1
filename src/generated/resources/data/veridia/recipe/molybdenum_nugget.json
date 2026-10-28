@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "veridia:molybdenum_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "veridia:molybdenum_nugget"
+  }
+}
