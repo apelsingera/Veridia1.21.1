@@ -122,6 +122,8 @@ public class ModBiomes {
 
     // Структуры берутся не из биома, а из тегов has_structure/*: нашего биома в них нет,
     // поэтому деревни, храмы и прочее здесь не генерируются.
+    // Жилы огнеупорной глины TFMG (редкие, в опалённом и обычном камне y 10..72) добавляет не биом, а
+    // data/veridia/neoforge/biome_modifier/add_ashen_fireclay.json: только если TFMG установлен.
     private static BiomeGenerationSettings generation(HolderGetter<PlacedFeature> placedFeatures,
                                                       HolderGetter<ConfiguredWorldCarver<?>> carvers, AshKind kind) {
         BiomeGenerationSettings.Builder builder = new BiomeGenerationSettings.Builder(placedFeatures, carvers);

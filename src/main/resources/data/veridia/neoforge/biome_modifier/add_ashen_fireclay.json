@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tfmg"
+    }
+  ],
+  "type": "neoforge:add_features",
+  "biomes": [
+    "veridia:ashen_plains",
+    "veridia:ashen_forest",
+    "veridia:ashen_river"
+  ],
+  "features": "veridia:ashen_fireclay_placed",
+  "step": "underground_ores"
+}
